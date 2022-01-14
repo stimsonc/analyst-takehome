@@ -1,0 +1,1564 @@
+id,text,added_datetime,yes_no,image_coordinates,image_url,original_id,page_number,parser_version,model_version,manual_override
+462548,No plastic bags or pesticide containers .,2021-07-13 01:18:01.983,no,"{'originalSize': {'height': 1700, 'width': 2200}, 'x1': 699, 'x2': 913, 'y1': 367, 'y2': 503}",NULL,NULL,NULL,NULL,NULL,NULL
+462549,No paint or aerosol cans .,2021-07-13 01:18:01.983,no,"{'originalSize': {'height': 1700, 'width': 2200}, 'x1': 695, 'x2': 909, 'y1': 740, 'y2': 876}",NULL,NULL,NULL,NULL,NULL,NULL
+462550,Tin and aluminum food and drink cans .,2021-07-13 01:18:01.983,yes,"{'originalSize': {'height': 1700, 'width': 2200}, 'x1': 224, 'x2': 438, 'y1': 771, 'y2': 907}",NULL,NULL,NULL,NULL,NULL,NULL
+462551,Corrugated and non corrugated . Includes cereal - type boxes and egg cartons .,2021-07-13 01:18:01.983,yes,"{'originalSize': {'height': 1700, 'width': 2200}, 'x1': 224, 'x2': 438, 'y1': 630, 'y2': 766}",NULL,NULL,NULL,NULL,NULL,NULL
+462552,"Includes all colors office paper , newspapers , magazines , catalogs , envelopes with windows , and phone books .",2021-07-13 01:18:01.983,yes,"{'originalSize': {'height': 1700, 'width': 2200}, 'x1': 225, 'x2': 439, 'y1': 499, 'y2': 635}",NULL,NULL,NULL,NULL,NULL,NULL
+462553,Numbers 1 - 7,2021-07-13 01:18:01.983,yes,"{'originalSize': {'height': 1700, 'width': 2200}, 'x1': 223, 'x2': 439, 'y1': 408, 'y2': 477}",NULL,NULL,NULL,NULL,NULL,NULL
+462554,"Clear , green , and brown bottles and jars .",2021-07-13 01:18:01.983,yes,"{'originalSize': {'height': 1700, 'width': 2200}, 'x1': 223, 'x2': 439, 'y1': 273, 'y2': 342}",NULL,NULL,NULL,NULL,NULL,NULL
+462555,Broken glass,2021-07-13 01:20:44.027,no,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 42, 'x2': 285, 'y1': 2360, 'y2': 2448}",NULL,NULL,NULL,NULL,NULL,NULL
+462556,Aerosol cans Gas cans,2021-07-13 01:20:44.027,no,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 39, 'x2': 282, 'y1': 2223, 'y2': 2311}",NULL,NULL,NULL,NULL,NULL,NULL
+462557,"Mirror / window glass , crystal , drinking glass , ceramics , ovenware , light bulbs",2021-07-13 01:20:44.027,no,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 40, 'x2': 283, 'y1': 2133, 'y2': 2221}",NULL,NULL,NULL,NULL,NULL,NULL
+462558,Gift wrap,2021-07-13 01:20:44.027,no,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 42, 'x2': 283, 'y1': 2009, 'y2': 2051}",NULL,NULL,NULL,NULL,NULL,NULL
+462559,Plastic grocery bags,2021-07-13 01:20:44.027,no,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 45, 'x2': 284, 'y1': 1882, 'y2': 1962}",NULL,NULL,NULL,NULL,NULL,NULL
+462560,Styrofoam,2021-07-13 01:20:44.027,no,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 32, 'x2': 271, 'y1': 1814, 'y2': 1894}",NULL,NULL,NULL,NULL,NULL,NULL
+462561,Beer bottles Juice containers Food containers Pop bottles Wine and liquor bottles,2021-07-13 01:20:44.027,yes,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 32, 'x2': 854, 'y1': 1671, 'y2': 1745}",NULL,NULL,NULL,NULL,NULL,NULL
+462562,Aluminum cans Aluminum pie plates Aluminum foil Tin food / beverage cans Coffee cans,2021-07-13 01:20:44.027,yes,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 41, 'x2': 863, 'y1': 1563, 'y2': 1637}",NULL,NULL,NULL,NULL,NULL,NULL
+462563,Plastics # 1- # 7 such as those from : Cleaners Food containers Bleach Milk Cooking oils Pill bottles Cosmetics & lotions Shampoo & conditioner Soft drinks Detergents Flower pots Water or juice,2021-07-13 01:20:44.027,yes,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 41, 'x2': 867, 'y1': 1354, 'y2': 1536}",NULL,NULL,NULL,NULL,NULL,NULL
+462564,Catalogs Cereal boxes Shredded paper Mail Toilet paper rolls Frozen food boxes Greeting cards Boxboard ( e.g. pop boxes ),2021-07-13 01:20:44.027,yes,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 575, 'x2': 848, 'y1': 984, 'y2': 1319}",NULL,NULL,NULL,NULL,NULL,NULL
+462565,Office paper ( white and colored ) Phonebooks Corrugated cardboard Tissue boxes Snack boxes Pop and beer cartons Wrapping paper tubes Paper gift / shopping bags Nut or chip canister ( e.g. Pringles ),2021-07-13 01:20:44.027,yes,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 304, 'x2': 577, 'y1': 983, 'y2': 1318}",NULL,NULL,NULL,NULL,NULL,NULL
+462570,"1-7 plastic containers . This includes : Milk and juice jugs , pop and water",2021-07-13 01:22:48.390,yes,"{'originalSize': {'height': 3866, 'width': 1600}, 'x1': 324, 'x2': 1135, 'y1': 1452, 'y2': 1503}",NULL,NULL,NULL,NULL,NULL,NULL
+462574,Plastic Containers # 1 - # 7,2021-07-13 01:25:36.340,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 766, 'x2': 1069, 'y1': 1380, 'y2': 1417}",NULL,NULL,NULL,NULL,NULL,NULL
+462575,Paper Drink Cartons,2021-07-13 01:25:36.340,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 433, 'x2': 736, 'y1': 1450, 'y2': 1487}",NULL,NULL,NULL,NULL,NULL,NULL
+462576,Tin Containers,2021-07-13 01:25:36.340,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 432, 'x2': 735, 'y1': 1412, 'y2': 1449}",NULL,NULL,NULL,NULL,NULL,NULL
+462566,Newspaper & advertisements Magazines Shoe boxes Paperback books Paper egg cartons Paper towel rolls Tissue paper Kraft paper bags Gable Top Containers ( Orange Juice or Milk Carton ),2021-07-13 01:20:44.027,yes,"{'originalSize': {'height': 4696, 'width': 1890}, 'x1': 38, 'x2': 311, 'y1': 983, 'y2': 1318}",NULL,NULL,NULL,NULL,NULL,NULL
+462567,"Aluminum and metal cans , foil and foil trays , lids and aerosol spray cans ( must be empty ) . Please",2021-07-13 01:22:48.390,yes,"{'originalSize': {'height': 3866, 'width': 1600}, 'x1': 49, 'x2': 1145, 'y1': 1862, 'y2': 1907}",NULL,NULL,NULL,NULL,NULL,NULL
+462568,"Paper and cardboard : Office paper , envelopes , junk mail , newspaper , brown paper bags , magazines , phone books , catalogs , books , paper egg cartons , cereal boxes , pop boxes , paper cups and corrugated",2021-07-13 01:22:48.390,yes,"{'originalSize': {'height': 3866, 'width': 1600}, 'x1': 45, 'x2': 1141, 'y1': 1640, 'y2': 1760}",NULL,NULL,NULL,NULL,NULL,NULL
+462569,"bottles , dish and liquid soap bottles , bleach and detergent containers , ice cream tubs and yogurt cups , cooking oil containers , lotion bottles , household cleaning containers , plastic cups and plastic plant pots . All containers must be clean and contain no liquids .",2021-07-13 01:22:48.390,yes,"{'originalSize': {'height': 3866, 'width': 1600}, 'x1': 60, 'x2': 1156, 'y1': 1493, 'y2': 1613}",NULL,NULL,NULL,NULL,NULL,NULL
+462571,Shingles - Ashes - Chemicals - Yard Waste - Railroad Ties - Concrete - Brick - Rock - Dirt - Large Metal Objects such as ; Cars - Machinery - Livestock Feeders - Fencing - etc.,2021-07-13 01:24:06.413,no,"{'originalSize': {'height': 4084, 'width': 1600}, 'x1': 408, 'x2': 960, 'y1': 1650, 'y2': 1795}",NULL,NULL,NULL,NULL,NULL,NULL
+462572,"Plastics # 1 thru # 7 , Tin & Aluminum cans or containers , Cardboard boxes , Paper including magazines & newspaper , Clear glass , Batteries and Scrap metal .",2021-07-13 01:24:06.413,yes,"{'originalSize': {'height': 4084, 'width': 1600}, 'x1': 404, 'x2': 925, 'y1': 1352, 'y2': 1484}",NULL,NULL,NULL,NULL,NULL,NULL
+462573,Aerosol Cans Ceramic Dishes and Mugs Glass Cookware Glass Vases Food / Food Waste Lightbulbs Paper Towels / Facial Tissues / Toilet Paper Paint Plastic Bags - return to grocery stores in bins they provide Plastic Packaging Styrofoam of any kind Window Glass Wrapping Paper,2021-07-13 01:25:36.340,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 64, 'x2': 662, 'y1': 682, 'y2': 1124}",NULL,NULL,NULL,NULL,NULL,NULL
+462577,Cardboard,2021-07-13 01:25:36.340,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 53, 'x2': 356, 'y1': 1413, 'y2': 1470}",NULL,NULL,NULL,NULL,NULL,NULL
+462578,Mixed Paper & Junk Mail,2021-07-13 01:25:36.340,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 418, 'x2': 721, 'y1': 1359, 'y2': 1416}",NULL,NULL,NULL,NULL,NULL,NULL
+462579,Glass Bottles / Containers,2021-07-13 01:25:36.340,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 91, 'x2': 394, 'y1': 1362, 'y2': 1419}",NULL,NULL,NULL,NULL,NULL,NULL
+462580,"Milk or juice cartons , plastic or wax coated boxes , or any cardboard contaminated with oil .",2021-07-13 01:34:01.593,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 56, 'x2': 1148, 'y1': 343, 'y2': 388}",NULL,NULL,NULL,NULL,NULL,NULL
+462581,"Paper towels , plates , or cups , toilet paper , wall paper , waxed paper , Christmas wrap , and stickers .",2021-07-13 01:34:01.593,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 76, 'x2': 1168, 'y1': 551, 'y2': 596}",NULL,NULL,NULL,NULL,NULL,NULL
+462582,"Styrofoam , plastic bags , toys , vinyl siding , PVC pipe , plastic feed sacks , films , rubber , carpet , foam , silage bags , Tyvek , field tile , or motor oil bottles .",2021-07-13 01:34:01.593,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 90, 'x2': 1182, 'y1': 733, 'y2': 810}",NULL,NULL,NULL,NULL,NULL,NULL
+462583,"Nails , screws , microwaves , TVs , computers , electronics , or major appliances .",2021-07-13 01:34:01.593,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 95, 'x2': 946, 'y1': 941, 'y2': 982}",NULL,NULL,NULL,NULL,NULL,NULL
+462584,Glass,2021-07-13 01:34:01.593,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 74, 'x2': 169, 'y1': 1015, 'y2': 1056}",NULL,NULL,NULL,NULL,NULL,NULL
+462630,Cardboard ( preferably not wet ),2021-07-13 01:54:00.300,yes,"{'originalSize': {'height': 3982, 'width': 1600}, 'x1': 464, 'x2': 772, 'y1': 921, 'y2': 952}",NULL,NULL,NULL,NULL,NULL,NULL
+462631,NO PLASTIC BAGS OR TRASH BAGS OF ANY KIND,2021-07-13 02:02:07.683,no,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 536, 'x2': 989, 'y1': 3243, 'y2': 3278}",NULL,NULL,NULL,NULL,NULL,NULL
+462585,"Tin cans , pop cans , aluminum foil , frying pans , cookie sheets , license plates , stainless steel kitchen items , cast iron skillets , brass items , bikes , electrical cords , electric motors , and wall chargers .",2021-07-13 01:34:01.593,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 68, 'x2': 1184, 'y1': 840, 'y2': 907}",NULL,NULL,NULL,NULL,NULL,NULL
+462586,"Items stamped with # 1 , # 2 , # 3 , # 4 , # 5 , # 6 , or # 7 such as milk jugs , soap bottles , butter tubs , yogurt cups , buckets , pop and water bottles . Triple rinsed herbicide and dairy supply barrels are OK , too .",2021-07-13 01:34:01.593,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 73, 'x2': 1189, 'y1': 634, 'y2': 701}",NULL,NULL,NULL,NULL,NULL,NULL
+462587,"Newspapers , magazines , catalogs , office paper , egg cartons , Kraft paper , phone books , junk mail , brown paper bags , feed sacks , books , and shredded paper . Please deliver hard cover books directly to",2021-07-13 01:34:01.593,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 83, 'x2': 1199, 'y1': 420, 'y2': 487}",NULL,NULL,NULL,NULL,NULL,NULL
+462588,"Basic corrugated boxes or sheets , cereal boxes , shoe boxes , or similar containers .",2021-07-13 01:34:01.593,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 96, 'x2': 988, 'y1': 214, 'y2': 249}",NULL,NULL,NULL,NULL,NULL,NULL
+462589,"Pizza boxes , plastic bags , unmarked plastics , Styrofoam ( cups , packaging ) , paper towels , napkins , tissues , cups , coffee filters , tea bags , waxed paper , or waxed anything ( like milk cartons , drink boxes , frozen food boxes ) , candy and gum wrappers , carbon paper , wall paper , bathroom waste paper , photos , slides , transparencies , aerosol cans , paint cans , oil / antifreeze / gasoline containers , light bulbs , pens , window panes , mirrors , pottery , ceramics , disposable razors , needles , toys , dishes , glasses , medicine containers , plastic cups / silverware / trays , plastic wrap , batteries , pet food bags , fertilizer bags , and seed corn bags .",2021-07-13 01:35:05.337,no,"{'originalSize': {'height': 8084, 'width': 1600}, 'x1': 54, 'x2': 1182, 'y1': 3291, 'y2': 3585}",NULL,NULL,NULL,NULL,NULL,NULL
+462590,"Corrugated cardboard , newspaper & inserts , copy and computer paper , junk mail , phone books , magazines , catalogs , greeting cards , boxboard ( cereal , cake , chip , Kleenex , and cracker boxes ) , plastic ( bottles , jugs , and jars ) , glass ( clear , green , brown , blue ) , metal cans .",2021-07-13 01:35:05.337,yes,"{'originalSize': {'height': 8084, 'width': 1600}, 'x1': 76, 'x2': 1169, 'y1': 2953, 'y2': 3072}",NULL,NULL,NULL,NULL,NULL,NULL
+462591,Shredded Paper,2021-07-13 01:37:40.257,no,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 391, 'x2': 701, 'y1': 1894, 'y2': 1926}",NULL,NULL,NULL,NULL,NULL,NULL
+462592,Wrapping Paper,2021-07-13 01:37:40.257,no,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 391, 'x2': 701, 'y1': 1953, 'y2': 1985}",NULL,NULL,NULL,NULL,NULL,NULL
+462593,"Wax Coated Cardboard ( Milk Cartons , Tetra - Paks ) Dirty , Greasy Pizza Boxes",2021-07-13 01:37:40.257,no,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 396, 'x2': 707, 'y1': 2005, 'y2': 2058}",NULL,NULL,NULL,NULL,NULL,NULL
+462594,Shopping Bags Plastic Wrap / Baggies / Air Pillow Packaging Dry Cleaning Plastic Styrofoam / Foam Food Cartons,2021-07-13 01:37:40.257,no,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 393, 'x2': 700, 'y1': 2134, 'y2': 2221}",NULL,NULL,NULL,NULL,NULL,NULL
+462595,Glass Sheets Window Glass Light Bulbs STRA,2021-07-13 01:37:40.257,no,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 392, 'x2': 529, 'y1': 2243, 'y2': 2327}",NULL,NULL,NULL,NULL,NULL,NULL
+462599,Paper Egg Cartons Soda Boxes Shipping Boxes Cereal Boxes,2021-07-13 01:37:40.257,yes,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 55, 'x2': 255, 'y1': 2016, 'y2': 2101}",NULL,NULL,NULL,NULL,NULL,NULL
+462600,Newsprint Magazines Junk Mail Paperback Books,2021-07-13 01:37:40.257,yes,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 60, 'x2': 260, 'y1': 1899, 'y2': 1984}",NULL,NULL,NULL,NULL,NULL,NULL
+462609,Paper plates or meat wrapping paper .,2021-07-13 01:44:37.010,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 803, 'x2': 1156, 'y1': 451, 'y2': 568}",NULL,NULL,NULL,NULL,NULL,NULL
+462610,Wax coated beverage containers . Non - flattened corrugated cardboard .,2021-07-13 01:44:37.010,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 806, 'x2': 1173, 'y1': 591, 'y2': 842}",NULL,NULL,NULL,NULL,NULL,NULL
+462596,Metal & Aluminum ( Clean & Rinsed ) Food Cans Tin Food Containers Jar Lids & Bottle Caps,2021-07-13 01:37:40.257,yes,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 56, 'x2': 372, 'y1': 2319, 'y2': 2407}",NULL,NULL,NULL,NULL,NULL,NULL
+462597,"Glass ( Clean , Rinsed & Lids Removed ) Clear Jars & Bottles Colored Wine & Beer Bottles",2021-07-13 01:37:40.257,yes,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 58, 'x2': 374, 'y1': 2213, 'y2': 2301}",NULL,NULL,NULL,NULL,NULL,NULL
+462598,HARD Plastics with Recycling Symbols 1-5 & 7 Milk Jugs Food Containers Plastic Bottles,2021-07-13 01:37:40.257,yes,"{'originalSize': {'height': 6096, 'width': 1600}, 'x1': 62, 'x2': 378, 'y1': 2130, 'y2': 2218}",NULL,NULL,NULL,NULL,NULL,NULL
+462601,"Disposable diapers , tube rolls Photographs , greeting cards Food encrusted pizza boxes Cereal box liners , pet food bags Slick Coated frozen food boxes Milk , Juice and plastic egg cartons Tissue paper , wrapping paper",2021-07-13 01:40:31.133,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 628, 'x2': 1112, 'y1': 386, 'y2': 620}",NULL,NULL,NULL,NULL,NULL,NULL
+462602,"Paint and aerosol containers Pesticide and chemical containers Iron , steel and batteries Car parts , oil filter",2021-07-13 01:40:31.133,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 615, 'x2': 1098, 'y1': 684, 'y2': 869}",NULL,NULL,NULL,NULL,NULL,NULL
+462603,Plastic bags Motor Oil Containers Pesticides and chemical containers Plastic without any recycling symbol Prescription pill bottles Unsanitary containers Styrofoam Medical Supplies,2021-07-13 01:40:31.133,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 608, 'x2': 1075, 'y1': 896, 'y2': 1169}",NULL,NULL,NULL,NULL,NULL,NULL
+462604,"Mirror and window glass Drinking glass Crystal , Pyrex and ovenware Ceramic cups and plates Light bulbs , flowerpots",2021-07-13 01:40:31.133,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 587, 'x2': 996, 'y1': 1282, 'y2': 1461}",NULL,NULL,NULL,NULL,NULL,NULL
+462605,Food jars and bottles Juice bottles Pop and water bottles Beer Bottles Wine and liquor bottles,2021-07-13 01:40:31.133,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 144, 'x2': 553, 'y1': 1283, 'y2': 1462}",NULL,NULL,NULL,NULL,NULL,NULL
+462606,Milk and Juice Jugs Margarine and ice cream tubs Yogurt Cups Pop and water bottles Cooking oil containers Shampoo Bottles Lotion Bottles Dish and liquid soap bottles Bleach and detergent containers Household cleaning containers,2021-07-13 01:40:31.133,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 150, 'x2': 555, 'y1': 895, 'y2': 1203}",NULL,NULL,NULL,NULL,NULL,NULL
+462607,"Rinsed tin / steel food containers Aluminum foil , pie pans , trays , cans Metal jar lids Aluminum window frames , chairs",2021-07-13 01:40:31.133,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 153, 'x2': 558, 'y1': 684, 'y2': 815}",NULL,NULL,NULL,NULL,NULL,NULL
+462608,"Newspaper , magazines & catalogs Corrugated cardboard Clean pizza boxes Grey Chipboard : cereal and shoeboxes Envelopes , junk mail , paper bags Pop / Beer cartons , carbonless forms Telephone Books",2021-07-13 01:40:31.133,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 155, 'x2': 566, 'y1': 387, 'y2': 606}",NULL,NULL,NULL,NULL,NULL,NULL
+462611,"Items not rinsed free of product residue . Cans used for storage of gasoline , kerosene and paint .",2021-07-13 01:44:37.010,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 805, 'x2': 1170, 'y1': 820, 'y2': 931}",NULL,NULL,NULL,NULL,NULL,NULL
+462612,"Items not rinsed free of product residue . Light bulbs , fluorescent tubes , window glass , ceramic cookware , drinking glasses , blue glass – water bottles .",2021-07-13 01:44:37.010,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 805, 'x2': 1169, 'y1': 921, 'y2': 1060}",NULL,NULL,NULL,NULL,NULL,NULL
+462632,NO STYROFOAM OF ANY KIND *,2021-07-13 02:02:07.683,no,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 612, 'x2': 900, 'y1': 3197, 'y2': 3233}",NULL,NULL,NULL,NULL,NULL,NULL
+462633,Cardboard & Paperboard,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 336, 'x2': 1158, 'y1': 3034, 'y2': 3071}",NULL,NULL,NULL,NULL,NULL,NULL
+462635,"Phone Books , Paperback & Hardbound Books",2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 324, 'x2': 967, 'y1': 2783, 'y2': 2813}",NULL,NULL,NULL,NULL,NULL,NULL
+462636,Magazines & Catalogs,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 323, 'x2': 966, 'y1': 2688, 'y2': 2718}",NULL,NULL,NULL,NULL,NULL,NULL
+462613,"Styrofoam items of any kind , plastic lids , plastic bags ( grocery bags are recyclable at some grocery stores ) , dry cleaner bags ( check with your dry cleaner to see if recyclable ) , an motor oil & antifreeze containers",2021-07-13 01:44:37.010,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 812, 'x2': 1176, 'y1': 1060, 'y2': 1243}",NULL,NULL,NULL,NULL,NULL,NULL
+462614,"Plastic ; any household plastic bottle , jug or container used for laundry , food or personal hygiene , and plastic milk containers # 1-7 only .",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 60, 'x2': 419, 'y1': 1062, 'y2': 1217}",NULL,NULL,NULL,NULL,NULL,NULL
+462615,"Glass ; brown , clear or green in color .",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 63, 'x2': 418, 'y1': 922, 'y2': 1017}",NULL,NULL,NULL,NULL,NULL,NULL
+462616,"Aluminum and tin ; including food and beverage cans , aerosol cans and aluminum foil .",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 63, 'x2': 418, 'y1': 831, 'y2': 926}",NULL,NULL,NULL,NULL,NULL,NULL
+462617,"Corrugated cardboard including pizza boxes ( if empty of all food ) , egg cartons .",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 66, 'x2': 421, 'y1': 744, 'y2': 839}",NULL,NULL,NULL,NULL,NULL,NULL
+462618,"Magazines , junk mail , school paper , white and colored paper , computer paper , phone books , catalogs , brown paper bags and feed & pet food bags ( if string is removed ) , and envelopes w / plastic windows . Paperboard items such as cereal , cracker , cake , cookies , tissue and gift boxes .",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 68, 'x2': 428, 'y1': 473, 'y2': 749}",NULL,NULL,NULL,NULL,NULL,NULL
+462619,"glass , plastic or metal containers",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 635, 'x2': 968, 'y1': 853, 'y2': 889}",NULL,NULL,NULL,NULL,NULL,NULL
+462620,"Paper board items such as cereal boxes , cracker boxes , cake boxes , cookie boxes , tissue boxes , and gift boxes must be flattened and may be placed in the recycling bin .",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 135, 'x2': 1173, 'y1': 975, 'y2': 1037}",NULL,NULL,NULL,NULL,NULL,NULL
+462621,"All paper , newspapers ( including inserts ) , magazines , junk mail , envelopes with plastic windows , school paper , white and colored writing paper , computer paper , phone books , catalogs , brown paper bags , and feed & pet food bags ( if string is removed ) is accepted .",2021-07-13 01:44:37.010,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 135, 'x2': 1173, 'y1': 1037, 'y2': 1124}",NULL,NULL,NULL,NULL,NULL,NULL
+462622,"Paper : newspaper , magazines , cardboard , office paper , junk mail Plastics accepted : # 1 Pete Plastics and Milk Jugs • Tin cans • Aluminum cans • Glass",2021-07-13 01:49:29.473,yes,"{'originalSize': {'height': 3880, 'width': 1600}, 'x1': 436, 'x2': 1126, 'y1': 1237, 'y2': 1334}",NULL,NULL,NULL,NULL,NULL,NULL
+462623,Glass Food Waste Trash Plastic Bags Shredded Paper Books Paper Plates Styrofoam Liquid,2021-07-13 01:50:45.663,no,"{'originalSize': {'height': 8452, 'width': 1600}, 'x1': 102, 'x2': 427, 'y1': 3175, 'y2': 3578}",NULL,NULL,NULL,NULL,NULL,NULL
+462624,Newsprint Plastics 1-7 Cardboard and Cereal boxes Aluminum / Tins Cans Office Paper Junk Mail Catalogs & Brochures,2021-07-13 01:50:45.663,yes,"{'originalSize': {'height': 8452, 'width': 1600}, 'x1': 95, 'x2': 461, 'y1': 2722, 'y2': 3036}",NULL,NULL,NULL,NULL,NULL,NULL
+462625,"Motor oil , Antifreeze and Fuel Treatment jugs Styrofoam of any kind ( at this point we have no market for this item ) Kleenex or paper towels Donut , popcorn or ziplock bags Paper plates , drinking straws , plastic forks or spoons Dirty Diapers or Feminine products Cheese wrappers Cardboard milk or orange juice containers Oxygen masks and tubing",2021-07-13 01:54:00.300,no,"{'originalSize': {'height': 3982, 'width': 1600}, 'x1': 457, 'x2': 1097, 'y1': 1440, 'y2': 1769}",NULL,NULL,NULL,NULL,NULL,NULL
+462628,Glass,2021-07-13 01:54:00.300,yes,"{'originalSize': {'height': 3982, 'width': 1600}, 'x1': 465, 'x2': 528, 'y1': 1020, 'y2': 1051}",NULL,NULL,NULL,NULL,NULL,NULL
+462629,Tin & Aluminum cans,2021-07-13 01:54:00.300,yes,"{'originalSize': {'height': 3982, 'width': 1600}, 'x1': 460, 'x2': 671, 'y1': 954, 'y2': 991}",NULL,NULL,NULL,NULL,NULL,NULL
+462626,"Plastics ( ONLY plastics with a number and triangle located somewhere on it , pop bottles , milk jugs , grocery bags , seed bags , pill bottles , laundry detergent bottles , shampoo / conditioner / lotion bottles and so much more ! ) Please make",2021-07-13 01:54:00.300,yes,"{'originalSize': {'height': 3982, 'width': 1600}, 'x1': 460, 'x2': 1195, 'y1': 1226, 'y2': 1320}",NULL,NULL,NULL,NULL,NULL,NULL
+462627,"Office Paper ( white paper , tissue paper , junk mail etc. ) Newspaper ( construction paper , wrapping paper , etc. ) Magazines Books",2021-07-13 01:54:00.300,yes,"{'originalSize': {'height': 3982, 'width': 1600}, 'x1': 465, 'x2': 973, 'y1': 1052, 'y2': 1191}",NULL,NULL,NULL,NULL,NULL,NULL
+462634,"Mixed Paper This category includes all other paper such as notebook paper , Post - it notes , colored copy paper , computer paper and white copy paper , white envelopes , green bar or blue bar computer paper , junk mail , etc. Staples are OK .",2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 321, 'x2': 1149, 'y1': 2849, 'y2': 2961}",NULL,NULL,NULL,NULL,NULL,NULL
+462637,Newspaper,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 321, 'x2': 964, 'y1': 2569, 'y2': 2599}",NULL,NULL,NULL,NULL,NULL,NULL
+462638,Paper,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 328, 'x2': 971, 'y1': 2501, 'y2': 2531}",NULL,NULL,NULL,NULL,NULL,NULL
+462639,# 4 - # 7 Plastics,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 330, 'x2': 973, 'y1': 2428, 'y2': 2458}",NULL,NULL,NULL,NULL,NULL,NULL
+462640,# 2 Colored Plastics,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 335, 'x2': 978, 'y1': 2362, 'y2': 2392}",NULL,NULL,NULL,NULL,NULL,NULL
+462641,# 2 Plastics - Natural Milk Jugs,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 340, 'x2': 983, 'y1': 2293, 'y2': 2323}",NULL,NULL,NULL,NULL,NULL,NULL
+462642,# 1 Plastics All # 1 plastic bottles . All other # 1 plastics go with # 4 - # 7 plastics .,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 340, 'x2': 983, 'y1': 2199, 'y2': 2256}",NULL,NULL,NULL,NULL,NULL,NULL
+462643,"Aluminum Foil / Aluminum Scrap Must be clean . Includes aluminum foil , pie pans , and frozen food trays . .",2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 340, 'x2': 1042, 'y1': 2128, 'y2': 2188}",NULL,NULL,NULL,NULL,NULL,NULL
+462644,Aluminum Beverage Cans Only,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 341, 'x2': 876, 'y1': 2054, 'y2': 2087}",NULL,NULL,NULL,NULL,NULL,NULL
+462645,Tin Cans ( includes cat food and EMPTY aerosol cans ),2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 349, 'x2': 884, 'y1': 1962, 'y2': 1995}",NULL,NULL,NULL,NULL,NULL,NULL
+462646,Glass,2021-07-13 02:02:07.683,yes,"{'originalSize': {'height': 7662, 'width': 1600}, 'x1': 354, 'x2': 554, 'y1': 1851, 'y2': 1881}",NULL,NULL,NULL,NULL,NULL,NULL
+462647,"# 2 Plastic Bags ( Wal - Mart , grocery stores , etc. )",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 53, 'x2': 592, 'y1': 3765, 'y2': 3864}",NULL,NULL,NULL,NULL,NULL,NULL
+462648,Phonebooks,2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 53, 'x2': 592, 'y1': 3368, 'y2': 3467}",NULL,NULL,NULL,NULL,NULL,NULL
+462649,"Fax & Printer Cartridges , Inkjet Cartridges , Toner Cartridges .",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 54, 'x2': 593, 'y1': 3264, 'y2': 3382}",NULL,NULL,NULL,NULL,NULL,NULL
+462650,"Books : Textbooks , Novels , Paperbacks , Children Books , Ect .",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 51, 'x2': 590, 'y1': 3169, 'y2': 3287}",NULL,NULL,NULL,NULL,NULL,NULL
+462651,"## 3- # 7 plastic ( odd material such as yogurt containers , butter dishes , etc . ) ... all material has to be rinsed out .",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 51, 'x2': 590, 'y1': 3052, 'y2': 3170}",NULL,NULL,NULL,NULL,NULL,NULL
+462753,Glass ( food and beverage bottles ) -,2021-07-13 02:46:46.487,yes,"{'originalSize': {'height': 5788, 'width': 1600}, 'x1': 486, 'x2': 835, 'y1': 1161, 'y2': 1197}",NULL,NULL,NULL,NULL,NULL,NULL
+462754,"window glass , light bulbs , etc. , are not accepted )",2021-07-13 02:46:46.560,no,"{'originalSize': {'height': 5788, 'width': 1600}, 'x1': 577, 'x2': 1043, 'y1': 1192, 'y2': 1226}",NULL,NULL,NULL,NULL,NULL,NULL
+462755,Tin / steel cans,2021-07-13 02:46:46.560,yes,"{'originalSize': {'height': 5788, 'width': 1600}, 'x1': 485, 'x2': 644, 'y1': 1604, 'y2': 1641}",NULL,NULL,NULL,NULL,NULL,NULL
+462652,"Beverage Bottles : PETE # 1 Clear soda bottles , green tinted bottles “ Mountain Dew "" type , juice , and or water bottles .",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 38, 'x2': 564, 'y1': 2929, 'y2': 3047}",NULL,NULL,NULL,NULL,NULL,NULL
+462653,"HDPE # 2 Colored : Detergent Bottles , Bleach Bottles . Please rinse .",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 38, 'x2': 557, 'y1': 2823, 'y2': 2907}",NULL,NULL,NULL,NULL,NULL,NULL
+462654,Milk Jugs : HDPE Natural # 2 ( milk jugs ),2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 38, 'x2': 557, 'y1': 2742, 'y2': 2826}",NULL,NULL,NULL,NULL,NULL,NULL
+462655,Aluminum Foil and Cat Food Cans,2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 38, 'x2': 557, 'y1': 2688, 'y2': 2772}",NULL,NULL,NULL,NULL,NULL,NULL
+462656,Aluminum Beverage Cans,2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 37, 'x2': 556, 'y1': 2615, 'y2': 2699}",NULL,NULL,NULL,NULL,NULL,NULL
+462657,Steel “ Tin ” Cans,2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 38, 'x2': 557, 'y1': 2540, 'y2': 2624}",NULL,NULL,NULL,NULL,NULL,NULL
+462658,Mixed Paper : Magazines and anything not mentioned above .,2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 38, 'x2': 557, 'y1': 2457, 'y2': 2541}",NULL,NULL,NULL,NULL,NULL,NULL
+462659,Corrugated Cardboard,2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 43, 'x2': 562, 'y1': 2381, 'y2': 2465}",NULL,NULL,NULL,NULL,NULL,NULL
+462660,"Office Mix : envelopes , junk mail , ect .",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 46, 'x2': 565, 'y1': 2307, 'y2': 2391}",NULL,NULL,NULL,NULL,NULL,NULL
+462661,"White Office Paper : Printer paper , Computer Greenbar Paper",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 46, 'x2': 565, 'y1': 2229, 'y2': 2313}",NULL,NULL,NULL,NULL,NULL,NULL
+462662,Newspaper :,2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 83, 'x2': 211, 'y1': 2134, 'y2': 2177}",NULL,NULL,NULL,NULL,NULL,NULL
+462663,"Glass : Green , Brown , and Clear Glass",2021-07-13 02:08:58.447,yes,"{'originalSize': {'height': 13864, 'width': 1992}, 'x1': 83, 'x2': 499, 'y1': 2068, 'y2': 2125}",NULL,NULL,NULL,NULL,NULL,NULL
+462664,Glass bottles and jars,2021-07-13 02:13:43.827,yes,"{'originalSize': {'height': 9676, 'width': 1600}, 'x1': 93, 'x2': 495, 'y1': 3418, 'y2': 3509}",NULL,NULL,NULL,NULL,NULL,NULL
+462665,Aluminum cans Steel ( tin ) food and beverage cans,2021-07-13 02:13:43.827,yes,"{'originalSize': {'height': 9676, 'width': 1600}, 'x1': 95, 'x2': 497, 'y1': 3274, 'y2': 3365}",NULL,NULL,NULL,NULL,NULL,NULL
+462666,Newspaper Office paper Envelopes Junk mail Magazines Catalogs Telephone books Cardboard Chipboard Milk / Juice cartons,2021-07-13 02:13:43.827,yes,"{'originalSize': {'height': 9676, 'width': 1600}, 'x1': 85, 'x2': 387, 'y1': 2905, 'y2': 3241}",NULL,NULL,NULL,NULL,NULL,NULL
+462667,Rigid plastics ( # 1-7 ) Plastic bottles Dairy containers Yogurt cups Deli or salad bar clamshells,2021-07-13 02:13:43.827,yes,"{'originalSize': {'height': 9676, 'width': 1600}, 'x1': 90, 'x2': 387, 'y1': 2688, 'y2': 2850}",NULL,NULL,NULL,NULL,NULL,NULL
+462668,Paper Plastic,2021-07-13 02:15:19.493,yes,"{'originalSize': {'height': 5038, 'width': 1600}, 'x1': 434, 'x2': 700, 'y1': 1785, 'y2': 1846}",NULL,NULL,NULL,NULL,NULL,NULL
+462669,Cardboard,2021-07-13 02:15:19.493,yes,"{'originalSize': {'height': 5038, 'width': 1600}, 'x1': 431, 'x2': 704, 'y1': 1520, 'y2': 1554}",NULL,NULL,NULL,NULL,NULL,NULL
+462670,"-No broken dishes , Pyrex , light - bulbs , or window panes",2021-07-13 02:20:48.490,no,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 453, 'x2': 780, 'y1': 1439, 'y2': 1539}",NULL,NULL,NULL,NULL,NULL,NULL
+462671,"-No Bags , Styrofoam or PVC Plastic",2021-07-13 02:20:48.490,no,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 451, 'x2': 778, 'y1': 1704, 'y2': 1793}",NULL,NULL,NULL,NULL,NULL,NULL
+462672,"-No Food Wrappers , Kleenex or Napkins",2021-07-13 02:20:48.490,no,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 439, 'x2': 766, 'y1': 3165, 'y2': 3254}",NULL,NULL,NULL,NULL,NULL,NULL
+462673,Cardboard,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 720, 'x2': 1047, 'y1': 3087, 'y2': 3176}",NULL,NULL,NULL,NULL,NULL,NULL
+462675,Paperboard -This includes all paper,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 777, 'x2': 1063, 'y1': 2225, 'y2': 2158}",NULL,NULL,NULL,NULL,NULL,NULL
+462676,Paperboard -This includes all paper,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 777, 'x2': 1063, 'y1': 2225, 'y2': 2158}",NULL,NULL,NULL,NULL,NULL,NULL
+462674,"Includes all other paper , such as notebook paper , post - it notes , copy paper , white envelopes , white computer paper , Green Bar , or Blue Bar computer paper are included as well junk mail , etc.",2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 454, 'x2': 778, 'y1': 3249, 'y2': 3525}",NULL,NULL,NULL,NULL,NULL,NULL
+462677,Magazines and Catalogs -Can be brought in loose,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 796, 'x2': 1082, 'y1': 2042, 'y2': 1975}",NULL,NULL,NULL,NULL,NULL,NULL
+462678,Aluminum Cans -We prefer them not flat,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 790, 'x2': 1076, 'y1': 1931, 'y2': 1864}",NULL,NULL,NULL,NULL,NULL,NULL
+462679,Newspaper,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 789, 'x2': 1075, 'y1': 1592, 'y2': 1659}",NULL,NULL,NULL,NULL,NULL,NULL
+462680,Plastics,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 457, 'x2': 743, 'y1': 1620, 'y2': 1687}",NULL,NULL,NULL,NULL,NULL,NULL
+462681,Tin Cans,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 785, 'x2': 1108, 'y1': 1196, 'y2': 1279}",NULL,NULL,NULL,NULL,NULL,NULL
+462682,Glass - From Consumable Products Only,2021-07-13 02:20:48.490,yes,"{'originalSize': {'height': 8024, 'width': 1600}, 'x1': 458, 'x2': 781, 'y1': 1205, 'y2': 1288}",NULL,NULL,NULL,NULL,NULL,NULL
+462683,We do not accept number 3 through 7 plastics such as : o All Styrofoam products o Food storage containers o Plastic bags o Plastic pipes,2021-07-13 02:22:27.980,no,"{'originalSize': {'height': 6404, 'width': 1600}, 'x1': 263, 'x2': 807, 'y1': 1136, 'y2': 1368}",NULL,NULL,NULL,NULL,NULL,NULL
+462684,Cardboard,2021-07-13 02:22:27.980,yes,"{'originalSize': {'height': 6404, 'width': 1600}, 'x1': 204, 'x2': 750, 'y1': 1565, 'y2': 1683}",NULL,NULL,NULL,NULL,NULL,NULL
+462685,"Newspaper , Magazines , Office Paper",2021-07-13 02:22:27.980,yes,"{'originalSize': {'height': 6404, 'width': 1600}, 'x1': 207, 'x2': 753, 'y1': 1467, 'y2': 1585}",NULL,NULL,NULL,NULL,NULL,NULL
+462686,Aluminum & Steel Cans Please rinse all cans . No need to remove labels .,2021-07-13 02:22:27.980,yes,"{'originalSize': {'height': 6404, 'width': 1600}, 'x1': 205, 'x2': 751, 'y1': 1370, 'y2': 1488}",NULL,NULL,NULL,NULL,NULL,NULL
+462687,We accept number 1 and number 2 plastics such as : o Detergent containers o Milk jugs o Peanut butter and similar jars o Soda bottles o Water bottles,2021-07-13 02:22:27.980,yes,"{'originalSize': {'height': 6404, 'width': 1600}, 'x1': 262, 'x2': 814, 'y1': 794, 'y2': 1070}",NULL,NULL,NULL,NULL,NULL,NULL
+462688,Cardboard – Corrugated and pressed cardboard,2021-07-13 02:23:35.157,yes,"{'originalSize': {'height': 2968, 'width': 2000}, 'x1': 385, 'x2': 1138, 'y1': 1297, 'y2': 1354}",NULL,NULL,NULL,NULL,NULL,NULL
+462689,"Mixed Paper / Office Paper - Junk mail , office waste and any other recyclable paper",2021-07-13 02:23:35.157,yes,"{'originalSize': {'height': 2968, 'width': 2000}, 'x1': 437, 'x2': 1190, 'y1': 1213, 'y2': 1270}",NULL,NULL,NULL,NULL,NULL,NULL
+462690,"HDPE # 2 - Plastic , opaque in color – milk and vinegar jugs , rinsed & the lids HDPE # 2 – Plastic , colored - laundry detergent bottles , rinsed & the lids removed PETE # 1 - Plastic , pop bottles , water bottles , and most clear plastics , rinsed & lids",2021-07-13 02:23:35.157,yes,"{'originalSize': {'height': 2968, 'width': 2000}, 'x1': 437, 'x2': 1190, 'y1': 1054, 'y2': 1223}",NULL,NULL,NULL,NULL,NULL,NULL
+462691,Magazines,2021-07-13 02:23:35.157,yes,"{'originalSize': {'height': 2968, 'width': 2000}, 'x1': 424, 'x2': 803, 'y1': 1020, 'y2': 1056}",NULL,NULL,NULL,NULL,NULL,NULL
+462692,Steel cans - Rinsed out,2021-07-13 02:23:35.157,yes,"{'originalSize': {'height': 2968, 'width': 2000}, 'x1': 428, 'x2': 807, 'y1': 984, 'y2': 1020}",NULL,NULL,NULL,NULL,NULL,NULL
+462693,"Glass - containers of any kind and color ,",2021-07-13 02:23:35.157,yes,"{'originalSize': {'height': 2968, 'width': 2000}, 'x1': 434, 'x2': 813, 'y1': 948, 'y2': 984}",NULL,NULL,NULL,NULL,NULL,NULL
+462694,Newspapers,2021-07-13 02:23:35.157,yes,"{'originalSize': {'height': 2968, 'width': 2000}, 'x1': 441, 'x2': 566, 'y1': 910, 'y2': 943}",NULL,NULL,NULL,NULL,NULL,NULL
+462714,"Newspaper , magazines , office paper , books .",2021-07-13 02:32:06.293,yes,"{'originalSize': {'height': 5074, 'width': 1600}, 'x1': 349, 'x2': 869, 'y1': 2757, 'y2': 2820}",NULL,NULL,NULL,NULL,NULL,NULL
+462715,"Newspaper , magazines , office paper , books .",2021-07-13 02:32:06.293,yes,"{'originalSize': {'height': 5074, 'width': 1600}, 'x1': 349, 'x2': 869, 'y1': 2755, 'y2': 2818}",NULL,NULL,NULL,NULL,NULL,NULL
+462716,Corrugated cardboard,2021-07-13 02:32:06.293,yes,"{'originalSize': {'height': 5074, 'width': 1600}, 'x1': 404, 'x2': 670, 'y1': 2493, 'y2': 2547}",NULL,NULL,NULL,NULL,NULL,NULL
+465332,"No lids , No food or liquid residue .",2021-07-29 22:26:05.397,no,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 126, 'x2': 630, 'y1': 1656, 'y2': 1708}",NULL,NULL,NULL,NULL,NULL,NULL
+465333,. Do not include the caps or lids .,2021-07-29 22:26:05.397,no,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 673, 'x2': 1600, 'y1': 1012, 'y2': 1064}",NULL,NULL,NULL,NULL,NULL,NULL
+465334,"No Pizza Boxes , cereal boxes , egg cartons , or frozen food packaging .",2021-07-29 22:26:05.397,no,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 185, 'x2': 1112, 'y1': 795, 'y2': 847}",NULL,NULL,NULL,NULL,NULL,NULL
+465335,"Soda cans , Tin cans and metal food containers .",2021-07-29 22:26:05.397,yes,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 148, 'x2': 802, 'y1': 1592, 'y2': 1644}",NULL,NULL,NULL,NULL,NULL,NULL
+465336,Plastics # 1 and # 2 only !,2021-07-29 22:26:05.397,yes,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 127, 'x2': 505, 'y1': 1376, 'y2': 1428}",NULL,NULL,NULL,NULL,NULL,NULL
+465337,"New paper , Magazines and office paper only .",2021-07-29 22:26:05.397,yes,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 169, 'x2': 783, 'y1': 1164, 'y2': 1214}",NULL,NULL,NULL,NULL,NULL,NULL
+465338,Glass bottles and Jars :,2021-07-29 22:26:05.397,yes,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 113, 'x2': 492, 'y1': 940, 'y2': 990}",NULL,NULL,NULL,NULL,NULL,NULL
+465339,Flattened Clean Brown Corrugated Cardboard,2021-07-29 22:26:05.397,yes,"{'originalSize': {'height': 3300, 'width': 2550}, 'x1': 173, 'x2': 796, 'y1': 721, 'y2': 771}",NULL,NULL,NULL,NULL,NULL,NULL
+465340,Steel ( tin cans ) Aluminum cans,2021-07-29 22:31:49.927,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1132, 'x2': 1344, 'y1': 1407, 'y2': 1588}",NULL,NULL,NULL,NULL,NULL,NULL
+465341,Bottles Jugs # 5 Tubs,2021-07-29 22:31:49.927,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 49, 'x2': 261, 'y1': 1396, 'y2': 1577}",NULL,NULL,NULL,NULL,NULL,NULL
+465342,Junk mail Greeting cards ( no foil or glitter ) Magazines Newspaper Phone books Paperback books Paper bags Paperboard,2021-07-29 22:31:49.927,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 482, 'x2': 788, 'y1': 684, 'y2': 1177}",NULL,NULL,NULL,NULL,NULL,NULL
+465343,NO LIDS,2021-07-29 22:34:19.430,no,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 589, 'x2': 808, 'y1': 1069, 'y2': 1115}",NULL,NULL,NULL,NULL,NULL,NULL
+465344,Remove all food and liquids from recyclable materials,2021-07-29 22:34:19.430,no,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 88, 'x2': 845, 'y1': 315, 'y2': 361}",NULL,NULL,NULL,NULL,NULL,NULL
+465345,No items smaller than a tennis ball,2021-07-29 22:34:19.430,no,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 84, 'x2': 621, 'y1': 267, 'y2': 322}",NULL,NULL,NULL,NULL,NULL,NULL
+465346,Do not use plastic bags ;,2021-07-29 22:34:19.430,no,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 84, 'x2': 419, 'y1': 226, 'y2': 281}",NULL,NULL,NULL,NULL,NULL,NULL
+465347,Tin and aluminum cans –,2021-07-29 22:34:19.430,yes,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 841, 'x2': 1247, 'y1': 1045, 'y2': 1123}",NULL,NULL,NULL,NULL,NULL,NULL
+465348,Rigid plastic bottles and tubs,2021-07-29 22:34:19.430,yes,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 150, 'x2': 580, 'y1': 1046, 'y2': 1124}",NULL,NULL,NULL,NULL,NULL,NULL
+465349,Clean boxes & cartons,2021-07-29 22:34:19.430,yes,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 1184, 'x2': 1531, 'y1': 658, 'y2': 736}",NULL,NULL,NULL,NULL,NULL,NULL
+465350,Empty paper bags,2021-07-29 22:34:19.430,yes,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 863, 'x2': 1210, 'y1': 656, 'y2': 734}",NULL,NULL,NULL,NULL,NULL,NULL
+465351,Newspaper,2021-07-29 22:34:19.430,yes,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 540, 'x2': 887, 'y1': 654, 'y2': 732}",NULL,NULL,NULL,NULL,NULL,NULL
+465352,"Flattened cardboard , mail , magazines , mixed paper",2021-07-29 22:34:19.430,yes,"{'originalSize': {'height': 2150, 'width': 1675}, 'x1': 88, 'x2': 603, 'y1': 669, 'y2': 750}",NULL,NULL,NULL,NULL,NULL,NULL
+465353,Electronic Waste,2021-07-29 22:41:57.430,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 744, 'x2': 910, 'y1': 988, 'y2': 1028}",NULL,NULL,NULL,NULL,NULL,NULL
+465354,-Food Waste,2021-07-29 22:41:57.430,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 748, 'x2': 1121, 'y1': 961, 'y2': 1000}",NULL,NULL,NULL,NULL,NULL,NULL
+465355,Styrofoam or Paper to - go Containers,2021-07-29 22:41:57.430,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 757, 'x2': 1130, 'y1': 928, 'y2': 967}",NULL,NULL,NULL,NULL,NULL,NULL
+465356,Waxed paper or Waxed Cardboard,2021-07-29 22:41:57.430,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 777, 'x2': 1150, 'y1': 895, 'y2': 934}",NULL,NULL,NULL,NULL,NULL,NULL
+465357,Stickers or Address Label Sheet Waste,2021-07-29 22:41:57.430,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 777, 'x2': 1150, 'y1': 895, 'y2': 934}",NULL,NULL,NULL,NULL,NULL,NULL
+465503,Plastic Bags Batteries Pots & Pans Styrofoam Dairy / Yogurt Cups Cups / Plates / Flatware,2021-07-30 13:40:01.830,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1231, 'x2': 1509, 'y1': 1426, 'y2': 1823}",NULL,NULL,NULL,NULL,NULL,NULL
+465504,Cartons,2021-07-30 13:40:01.830,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 105, 'x2': 616, 'y1': 1352, 'y2': 1436}",NULL,NULL,NULL,NULL,NULL,NULL
+465505,Metal Cans,2021-07-30 13:40:01.830,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 877, 'x2': 1388, 'y1': 801, 'y2': 885}",NULL,NULL,NULL,NULL,NULL,NULL
+465506,Plastic Bottles & Jugs,2021-07-30 13:40:01.830,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 132, 'x2': 643, 'y1': 802, 'y2': 886}",NULL,NULL,NULL,NULL,NULL,NULL
+465507,Metal lids can be detached and recycled .,2021-07-30 13:40:01.830,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1020, 'x2': 1531, 'y1': 701, 'y2': 785}",NULL,NULL,NULL,NULL,NULL,NULL
+465508,Glass Bottles & Jars,2021-07-30 13:40:01.830,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 928, 'x2': 1439, 'y1': 249, 'y2': 333}",NULL,NULL,NULL,NULL,NULL,NULL
+465509,Paper & Cardboard,2021-07-30 13:40:01.830,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 136, 'x2': 647, 'y1': 251, 'y2': 335}",NULL,NULL,NULL,NULL,NULL,NULL
+465510,* Car Parts * Paper Milk or Juice Cartons ( Wax Coated ) Styrofoam Container / Packing * Plastic Bags / Plastic Film * Garden Hose / Rubber * Vinyl Siding * TV Cases * Lawn Chairs * Hangers * Medical Waste * ( Syringes / Needles ) * Glass * Please help protect our workers ... WE DO NOT ACCEPT SYRINGES OR NEEDLES . * PVC * Large Toys * Tarps / Pool Covers,2021-07-30 17:47:28.683,no,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 55, 'x2': 1448, 'y1': 2225, 'y2': 2438}",NULL,NULL,NULL,NULL,NULL,NULL
+465511,"Kitchen Cookware Metal pots , pans , tins & utensils",2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 947, 'x2': 1359, 'y1': 1609, 'y2': 1721}",NULL,NULL,NULL,NULL,NULL,NULL
+465512,* Household Plastic ( # 3 - # 7 ) Empty containers only,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 1427, 'x2': 1839, 'y1': 1281, 'y2': 1393}",NULL,NULL,NULL,NULL,NULL,NULL
+465513,* Aluminum Cans Empty cans only,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 954, 'x2': 1366, 'y1': 1276, 'y2': 1388}",NULL,NULL,NULL,NULL,NULL,NULL
+465514,* Plastic Jugs / Bottles ( # 1 & # 2 ),2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 1434, 'x2': 1846, 'y1': 956, 'y2': 1068}",NULL,NULL,NULL,NULL,NULL,NULL
+465515,* Steel & Tin Cans Empty cans only,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 946, 'x2': 1358, 'y1': 956, 'y2': 1068}",NULL,NULL,NULL,NULL,NULL,NULL
+465516,Phone Books All types and sizes,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 61, 'x2': 473, 'y1': 1932, 'y2': 2044}",NULL,NULL,NULL,NULL,NULL,NULL
+465517,Office Paper All types and sizes,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 458, 'x2': 870, 'y1': 1608, 'y2': 1720}",NULL,NULL,NULL,NULL,NULL,NULL
+465518,Magazines & Catalogs All types & sizes,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 55, 'x2': 467, 'y1': 1593, 'y2': 1705}",NULL,NULL,NULL,NULL,NULL,NULL
+465519,"Newspaper Remove bags , strings and rubber bands",2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 476, 'x2': 888, 'y1': 1270, 'y2': 1382}",NULL,NULL,NULL,NULL,NULL,NULL
+465520,Paperboard No wax coated paperboard,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 59, 'x2': 471, 'y1': 1262, 'y2': 1374}",NULL,NULL,NULL,NULL,NULL,NULL
+465521,"Junk Mail Envelopes , flyers , brochures , postcards etc.",2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 482, 'x2': 894, 'y1': 946, 'y2': 1058}",NULL,NULL,NULL,NULL,NULL,NULL
+465522,Cardboard & Paper Bags Flatten cardboard & cut into pieces,2021-07-30 17:47:28.683,yes,"{'originalSize': {'height': 6830, 'width': 5280}, 'x1': 73, 'x2': 449, 'y1': 948, 'y2': 1060}",NULL,NULL,NULL,NULL,NULL,NULL
+465523,Food & Beverage Cartons,2021-07-30 17:53:04.880,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 678, 'x2': 942, 'y1': 1035, 'y2': 1129}",NULL,NULL,NULL,NULL,NULL,NULL
+465524,Plastic Bottles & Containers,2021-07-30 17:53:04.880,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 95, 'x2': 359, 'y1': 699, 'y2': 793}",NULL,NULL,NULL,NULL,NULL,NULL
+465525,NO PLASTIC NO HOSES NO TO GO NO HOUSEHOLD BAGS OR CORDS CONTAINERS OR BULKY ITEMS,2021-07-30 17:53:04.880,no,"{'originalSize': {'height': 4980, 'width': 1600}, 'x1': 258, 'x2': 710, 'y1': 855, 'y2': 914}",NULL,NULL,NULL,NULL,NULL,NULL
+465527,CANS Aluminum and Steel,2021-07-30 17:53:04.880,yes,"{'originalSize': {'height': 4980, 'width': 1600}, 'x1': 1038, 'x2': 1345, 'y1': 925, 'y2': 971}",NULL,NULL,NULL,NULL,NULL,NULL
+465528,GLASS Bottles and Jars,2021-07-30 17:53:04.880,yes,"{'originalSize': {'height': 4980, 'width': 1600}, 'x1': 1027, 'x2': 1334, 'y1': 780, 'y2': 826}",NULL,NULL,NULL,NULL,NULL,NULL
+465529,"PAPER Mail , Newspapers , Magazines , Cereal Boxes , Cardboard",2021-07-30 17:53:04.880,yes,"{'originalSize': {'height': 4980, 'width': 1600}, 'x1': 722, 'x2': 1029, 'y1': 781, 'y2': 827}",NULL,NULL,NULL,NULL,NULL,NULL
+465530,PLASTIC SLEEK SON WATER COLA SHAMPOO HANG வா MILK FRESH & CLEAN DETERGENT BUTTER YOGURT,2021-07-30 17:56:23.920,yes,"{'originalSize': {'height': 5886, 'width': 1600}, 'x1': 810, 'x2': 1433, 'y1': 1768, 'y2': 2192}",NULL,NULL,NULL,NULL,NULL,NULL
+465531,Clothing Batteries Plastic Bags Pots & Pans,2021-07-30 17:56:23.920,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1374, 'x2': 1629, 'y1': 1463, 'y2': 1937}",NULL,NULL,NULL,NULL,NULL,NULL
+465532,CARTONS Chocolate SOV Fresh Drink Taste Low fat non datory drunk 100 % OLANGE JUI APPLE JUICE TOOMICE Halloon 64 11 ( 1190 ) Chartere mik,2021-07-30 17:56:23.920,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 262, 'x2': 896, 'y1': 1451, 'y2': 1925}",NULL,NULL,NULL,NULL,NULL,NULL
+465533,PLASTIC BOTTLES PA SLEEK & SNINE WATER COLA SHAMPOO PEMOTY MILK FRESH & CLEAN DETERGENT,2021-07-30 17:56:23.920,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 279, 'x2': 913, 'y1': 893, 'y2': 1367}",NULL,NULL,NULL,NULL,NULL,NULL
+465534,METAL CANS HAIRSPRAY PREMIUM QUALIT POMY SOUP COLA empty aerosol cans that didn't contain hazardous or flammable material,2021-07-30 17:56:23.920,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 975, 'x2': 1609, 'y1': 908, 'y2': 1382}",NULL,NULL,NULL,NULL,NULL,NULL
+465535,GLASS BOTTLES & JARS PROMIUM QUALITY Preview Quem PICKLES WATER SPARKLING WINE PNOUT STRAWBERRY JELLY Cot,2021-07-30 17:56:23.920,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 958, 'x2': 1592, 'y1': 344, 'y2': 818}",NULL,NULL,NULL,NULL,NULL,NULL
+465536,PAPER,2021-07-30 17:56:23.920,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 246, 'x2': 880, 'y1': 357, 'y2': 459}",NULL,NULL,NULL,NULL,NULL,NULL
+465537,"PAPER , MAGAZINES & MAIL Paper such as junk mail , newspaper , magazines , office & school paper , and paper grocery bags are",2021-07-30 17:59:48.543,yes,"{'originalSize': {'height': 8048, 'width': 1600}, 'x1': 526, 'x2': 1359, 'y1': 3817, 'y2': 4027}",NULL,NULL,NULL,NULL,NULL,NULL
+465538,Cartons,2021-07-30 17:59:48.543,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1297, 'x2': 1520, 'y1': 1688, 'y2': 1778}",NULL,NULL,NULL,NULL,NULL,NULL
+465539,Metal Cans,2021-07-30 17:59:48.543,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1012, 'x2': 1235, 'y1': 1686, 'y2': 1776}",NULL,NULL,NULL,NULL,NULL,NULL
+465540,Glass Bottles & Jars,2021-07-30 17:59:48.543,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 713, 'x2': 936, 'y1': 1695, 'y2': 1785}",NULL,NULL,NULL,NULL,NULL,NULL
+465541,Plastic Bottles & Jugs,2021-07-30 17:59:48.543,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 436, 'x2': 659, 'y1': 1690, 'y2': 1780}",NULL,NULL,NULL,NULL,NULL,NULL
+465542,Newspaper Cardboard,2021-07-30 17:59:48.543,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 147, 'x2': 370, 'y1': 1699, 'y2': 1789}",NULL,NULL,NULL,NULL,NULL,NULL
+465543,Rubbish Furniture Plastic Bags Toys Tooo Scrap Metal Batteries Construction Materials Clothing,2021-07-30 17:59:48.543,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 249, 'x2': 1369, 'y1': 945, 'y2': 1614}",NULL,NULL,NULL,NULL,NULL,NULL
+465544,"What is accepted - Corrugated Cardboard & Paperboard , Newspapers , Magazines , Phonebooks , Mail , Office Paper Clear , Green & Brown Glass Bottles , Plastics Bottles & Jugs # 1 & # 2 , Steel Food Cans & Aluminum Cans",2021-07-30 18:00:57.683,yes,"{'originalSize': {'height': 5178, 'width': 2998}, 'x1': 696, 'x2': 1557, 'y1': 1026, 'y2': 1072}",NULL,NULL,NULL,NULL,NULL,NULL
+465548,Glass Bottles & Jars Only Food & Drink Glass Containers,2021-07-30 18:03:53.553,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1110, 'x2': 1631, 'y1': 717, 'y2': 798}",NULL,NULL,NULL,NULL,NULL,NULL
+465549,"Cardboard & Paperboard Paperboard Ex . boxes such as cereal , cake & rice boxes",2021-07-30 18:03:53.553,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1111, 'x2': 1632, 'y1': 455, 'y2': 553}",NULL,NULL,NULL,NULL,NULL,NULL
+465551,CAS This is the soap and detergent type containers of any color . HDPE COLOR,2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 24, 'x2': 487, 'y1': 975, 'y2': 1131}",NULL,NULL,NULL,NULL,NULL,NULL
+465545,"Automotive product containers , chemical / pesticide containers , bowls , buckets , feed bags , flower pots , microwave / fast food trays , Styrofoam , toys , mirrors , ceramics , light bulbs , window glass , dishes , china , paint cans , aerosol cans , pots , pans , hangers , batteries or appliances . No Plastic Bags or Plastics # 3 through # 7 will be accepted .",2021-07-30 18:03:53.553,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1003, 'x2': 1658, 'y1': 1223, 'y2': 1457}",NULL,NULL,NULL,NULL,NULL,NULL
+465546,"Aluminum & Steel Food Cans Aluminum food , beverage and pet food cans . Steel o bi - metal ( tin ) food , soup , coffee and pet food cans",2021-07-30 18:03:53.553,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1002, 'x2': 1631, 'y1': 1067, 'y2': 1176}",NULL,NULL,NULL,NULL,NULL,NULL
+465547,"Plastic Bottles & Jugs Ex . milk jugs , beverage bottles , shampoo bottles , laundry jugs & household cleaning bottles # 1 & # 2 • Remove all lids & rinse thoroughly , ONLY | • No Food or Liquids left in Containers .",2021-07-30 18:03:53.553,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 997, 'x2': 1626, 'y1': 877, 'y2': 1073}",NULL,NULL,NULL,NULL,NULL,NULL
+465550,"Paper Ex . Newspapers , Magazines , Advertisements , Mail , Office Paper & Phone Books",2021-07-30 18:03:53.553,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 1114, 'x2': 1635, 'y1': 341, 'y2': 442}",NULL,NULL,NULL,NULL,NULL,NULL
+465552,This is the frosty type containers such as some milk and juice containers . 2 HDPE NATURAL,2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 168, 'x2': 631, 'y1': 799, 'y2': 955}",NULL,NULL,NULL,NULL,NULL,NULL
+465553,CS This is the pop and water type containers . PETE,2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 15, 'x2': 310, 'y1': 667, 'y2': 823}",NULL,NULL,NULL,NULL,NULL,NULL
+465554,"This is the newspaper , slick ads , phone books , shredded paper , office paper , paper board ( Cereal type boxes ) , magazines , cartons , office paper , paper bags , and envelopes . * Please empty all paper out of all plastic bags , including shredded paper . Mixed Paper",2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 16, 'x2': 626, 'y1': 516, 'y2': 672}",NULL,NULL,NULL,NULL,NULL,NULL
+465555,VO Cardboard,2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 16, 'x2': 161, 'y1': 364, 'y2': 520}",NULL,NULL,NULL,NULL,NULL,NULL
+465556,"DAY ( berbeda Aluminum cans , tin and steel food cans . Please separate aluminum from other cans . Aerosol cans that are empty are also accepted . Aluminum foil and pie pans are acceptable . We accept scrap steel , but we do not purchase it at this time . Cans / Foil",2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 27, 'x2': 628, 'y1': 223, 'y2': 379}",NULL,NULL,NULL,NULL,NULL,NULL
+465557,"Bottles and Jars in Clear , Brown , and Green colors . All lids must be removed from the glass . We can",2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 47, 'x2': 617, 'y1': 71, 'y2': 133}",NULL,NULL,NULL,NULL,NULL,NULL
+465558,Glass,2021-07-30 18:07:01.267,yes,"{'originalSize': {'height': 1700, 'width': 2800}, 'x1': 47, 'x2': 196, 'y1': 71, 'y2': 208}",NULL,NULL,NULL,NULL,NULL,NULL
+465559,Cardboard Styrofoam Plastic Bags Windows Scrap Metal,2021-07-30 18:10:21.303,no,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 1021, 'x2': 1278, 'y1': 653, 'y2': 907}",NULL,NULL,NULL,NULL,NULL,NULL
+465560,"PLASTIC BOTTLES , JUGS & JARS",2021-07-30 18:10:21.303,yes,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 471, 'x2': 955, 'y1': 921, 'y2': 974}",NULL,NULL,NULL,NULL,NULL,NULL
+465561,ALUMINUM CANS,2021-07-30 18:10:21.303,yes,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 86, 'x2': 415, 'y1': 923, 'y2': 976}",NULL,NULL,NULL,NULL,NULL,NULL
+465562,GLASS BOTTLES & JARS,2021-07-30 18:10:21.303,yes,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 539, 'x2': 868, 'y1': 652, 'y2': 705}",NULL,NULL,NULL,NULL,NULL,NULL
+465563,STEEL FOOD CANS,2021-07-30 18:10:21.303,yes,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 80, 'x2': 409, 'y1': 655, 'y2': 708}",NULL,NULL,NULL,NULL,NULL,NULL
+465564,MAGAZINES,2021-07-30 18:10:21.303,yes,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 971, 'x2': 1300, 'y1': 360, 'y2': 413}",NULL,NULL,NULL,NULL,NULL,NULL
+465565,OFFICE PAPER & MAIL,2021-07-30 18:10:21.303,yes,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 542, 'x2': 871, 'y1': 357, 'y2': 410}",NULL,NULL,NULL,NULL,NULL,NULL
+465566,NEWSPAPERS,2021-07-30 18:10:21.303,yes,"{'originalSize': {'height': 1100, 'width': 1700}, 'x1': 82, 'x2': 390, 'y1': 363, 'y2': 416}",NULL,NULL,NULL,NULL,NULL,NULL
+465567,Highly Flammable Waste Appliances Containing Freon Burn Barrels . • Glass,2021-07-30 18:13:34.243,no,"{'originalSize': {'height': 3390, 'width': 1600}, 'x1': 999, 'x2': 1455, 'y1': 1467, 'y2': 1759}",NULL,NULL,NULL,NULL,NULL,NULL
+465568,• Livestock Liquids Toxic Waste,2021-07-30 18:13:34.243,no,"{'originalSize': {'height': 3390, 'width': 1600}, 'x1': 370, 'x2': 686, 'y1': 1489, 'y2': 1781}",NULL,NULL,NULL,NULL,NULL,NULL
+465569,• Metal Hangers • Milk Cartons • Newspapers • Paper • Plastic ( # 1 & # 2 ) • Plastic Coffee Cans • Steels Cans,2021-07-30 18:13:34.243,yes,"{'originalSize': {'height': 3390, 'width': 1600}, 'x1': 1006, 'x2': 1322, 'y1': 933, 'y2': 1315}",NULL,NULL,NULL,NULL,NULL,NULL
+465570,Aluminum Cans • Books Cardboard • Cell Phones Computers Detergent Bottles • Magazines,2021-07-30 18:13:34.243,yes,"{'originalSize': {'height': 3390, 'width': 1600}, 'x1': 437, 'x2': 753, 'y1': 959, 'y2': 1341}",NULL,NULL,NULL,NULL,NULL,NULL
+465571,o Mirrors o Oil cans / bottles o Ovenware o Paint cans o Plate glass o Window glass,2021-07-30 18:18:15.253,no,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 1073, 'x2': 1516, 'y1': 2222, 'y2': 2609}",NULL,NULL,NULL,NULL,NULL,NULL
+465572,0 Caps / lids o Ceramic cups / plates o Crystal o Drinking glasses o Flower pots o Light bulbs o Metallic wrapping paper,2021-07-30 18:18:15.253,no,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 600, 'x2': 1043, 'y1': 2272, 'y2': 2659}",NULL,NULL,NULL,NULL,NULL,NULL
+465573,o Plastic # 1-5 and # 7 containers,2021-07-30 18:18:15.253,yes,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 1131, 'x2': 1578, 'y1': 1852, 'y2': 1948}",NULL,NULL,NULL,NULL,NULL,NULL
+465574,o Newspapers,2021-07-30 18:18:15.253,yes,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 1132, 'x2': 1579, 'y1': 1795, 'y2': 1847}",NULL,NULL,NULL,NULL,NULL,NULL
+465575,o Mixed paper ( PDF ),2021-07-30 18:18:15.253,yes,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 1130, 'x2': 1577, 'y1': 1714, 'y2': 1812}",NULL,NULL,NULL,NULL,NULL,NULL
+465576,o Glass bottles and jars o Metal cans,2021-07-30 18:18:15.253,yes,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 613, 'x2': 1060, 'y1': 1942, 'y2': 2040}",NULL,NULL,NULL,NULL,NULL,NULL
+465577,o Corrugated cardboard and boxboard,2021-07-30 18:18:15.253,yes,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 603, 'x2': 1050, 'y1': 1837, 'y2': 1935}",NULL,NULL,NULL,NULL,NULL,NULL
+465578,"o Aluminum cans , foil , and pie plates",2021-07-30 18:18:15.253,yes,"{'originalSize': {'height': 5770, 'width': 1600}, 'x1': 594, 'x2': 1041, 'y1': 1711, 'y2': 1844}",NULL,NULL,NULL,NULL,NULL,NULL
+465579,"Plastic bags or plastic films Recyclables in plastic bags Any soiled / wet / greasy material Food waste Disposable polystyrene containers Broken glass Ceramics , crystal , and leaded glass Plastic toys , bins , bulk items Propane tanks",2021-07-30 18:19:37.527,no,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 980, 'x2': 1517, 'y1': 1566, 'y2': 1922}",NULL,NULL,NULL,NULL,NULL,NULL
+465580,Glass bottles and containers,2021-07-30 18:19:37.527,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 344, 'x2': 770, 'y1': 1721, 'y2': 1762}",NULL,NULL,NULL,NULL,NULL,NULL
+465581,Magazines and newspaper,2021-07-30 18:19:37.527,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 341, 'x2': 767, 'y1': 1681, 'y2': 1722}",NULL,NULL,NULL,NULL,NULL,NULL
+465582,"Aluminum , tin and steel cans",2021-07-30 18:19:37.527,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 341, 'x2': 767, 'y1': 1643, 'y2': 1684}",NULL,NULL,NULL,NULL,NULL,NULL
+465583,Cardboard and paperboard,2021-07-30 18:19:37.527,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 335, 'x2': 761, 'y1': 1610, 'y2': 1651}",NULL,NULL,NULL,NULL,NULL,NULL
+465584,Plastic bottles and containers,2021-07-30 18:19:37.527,yes,"{'originalSize': {'height': 2200, 'width': 1700}, 'x1': 335, 'x2': 761, 'y1': 1573, 'y2': 1614}",NULL,NULL,NULL,NULL,NULL,NULL
+467067,"Glass food & beverage containers in : Clear , Brown and Green",2021-08-06 20:03:44.667,yes,"{'originalSize': {'height': 3906, 'width': 1600}, 'x1': 627, 'x2': 1524, 'y1': 1136, 'y2': 1215}",NULL,NULL,NULL,NULL,NULL,NULL
+467068,"Aluminum foil , food & beverage containers .",2021-08-06 20:03:44.667,yes,"{'originalSize': {'height': 3906, 'width': 1600}, 'x1': 627, 'x2': 1380, 'y1': 1091, 'y2': 1145}",NULL,NULL,NULL,NULL,NULL,NULL
+467072,"WE ACCEPT Newspaper , Newsprint , Printer / Copy Paper of any color and size .",2021-08-06 20:11:32.020,yes,"{'originalSize': {'height': 7216, 'width': 1600}, 'x1': 742, 'x2': 1520, 'y1': 2384, 'y2': 2485}",NULL,NULL,NULL,NULL,NULL,NULL
+467074,WE ACCEPT beverage cans and tin cans . Aluminum and tin can be placed in,2021-08-06 20:11:32.020,yes,"{'originalSize': {'height': 7216, 'width': 1600}, 'x1': 722, 'x2': 1259, 'y1': 1754, 'y2': 1842}",NULL,NULL,NULL,NULL,NULL,NULL
+465647,"soiled paper ,",2021-08-02 16:45:22.377,no,"{'originalSize': {'height': 9288, 'width': 1600}, 'x1': 916, 'x2': 1159, 'y1': 3326, 'y2': 3368}",NULL,NULL,NULL,NULL,NULL,NULL
+465648,"-carbon paper ,",2021-08-02 16:45:22.377,no,"{'originalSize': {'height': 9288, 'width': 1600}, 'x1': 1227, 'x2': 1470, 'y1': 3271, 'y2': 3313}",NULL,NULL,NULL,NULL,NULL,NULL
+465649,"hardcover books ,",2021-08-02 16:45:22.377,no,"{'originalSize': {'height': 9288, 'width': 1600}, 'x1': 985, 'x2': 1228, 'y1': 3271, 'y2': 3313}",NULL,NULL,NULL,NULL,NULL,NULL
+465650,"ack rings , chemical",2021-08-02 16:45:22.377,no,"{'originalSize': {'height': 9288, 'width': 1600}, 'x1': 1011, 'x2': 1254, 'y1': 3220, 'y2': 3262}",NULL,NULL,NULL,NULL,NULL,NULL
+465651,", hangers , toys , 6",2021-08-02 16:45:22.377,no,"{'originalSize': {'height': 9288, 'width': 1600}, 'x1': 1189, 'x2': 1432, 'y1': 3160, 'y2': 3202}",NULL,NULL,NULL,NULL,NULL,NULL
+465652,No plastic bags,2021-08-02 16:45:22.377,no,"{'originalSize': {'height': 9288, 'width': 1600}, 'x1': 952, 'x2': 1195, 'y1': 3161, 'y2': 3203}",NULL,NULL,NULL,NULL,NULL,NULL
+465653,"Cardboard & paper bags , telephone books , plastic jugs # 1-2 , newspaper , steel & tin cans , magazines & catalogs , junk mail & office paper , household plastics # 1-6 are all accepted in your recycle bin . All plastic bottles must be rinsed out",2021-08-02 16:45:22.377,yes,"{'originalSize': {'height': 9288, 'width': 1600}, 'x1': 985, 'x2': 1431, 'y1': 2353, 'y2': 2782}",NULL,NULL,NULL,NULL,NULL,NULL
+465654,empty aerosol ( spray ) cans,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 103, 'x2': 1065, 'y1': 8733, 'y2': 8779}",NULL,NULL,NULL,NULL,NULL,NULL
+465655,paint,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 102, 'x2': 1064, 'y1': 8695, 'y2': 8741}",NULL,NULL,NULL,NULL,NULL,NULL
+465656,motor oil and cooking oil,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 102, 'x2': 1064, 'y1': 8650, 'y2': 8696}",NULL,NULL,NULL,NULL,NULL,NULL
+465657,aluminum foil and trays,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 102, 'x2': 1064, 'y1': 8604, 'y2': 8650}",NULL,NULL,NULL,NULL,NULL,NULL
+465658,propane tanks,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 103, 'x2': 1065, 'y1': 8566, 'y2': 8612}",NULL,NULL,NULL,NULL,NULL,NULL
+465659,diapers or sanitary products,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 103, 'x2': 1065, 'y1': 8522, 'y2': 8568}",NULL,NULL,NULL,NULL,NULL,NULL
+465660,medical waste ( i.e. syringes ),2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 100, 'x2': 1062, 'y1': 8483, 'y2': 8529}",NULL,NULL,NULL,NULL,NULL,NULL
+465661,rope - like items ( i.e. garden hoses ),2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 98, 'x2': 1060, 'y1': 8443, 'y2': 8489}",NULL,NULL,NULL,NULL,NULL,NULL
+465662,"construction debris ( i.e. wood , insulation )",2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 108, 'x2': 1070, 'y1': 8400, 'y2': 8446}",NULL,NULL,NULL,NULL,NULL,NULL
+465663,clothing and shoes,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 108, 'x2': 1070, 'y1': 8359, 'y2': 8405}",NULL,NULL,NULL,NULL,NULL,NULL
+465664,electronics,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 109, 'x2': 1071, 'y1': 8314, 'y2': 8360}",NULL,NULL,NULL,NULL,NULL,NULL
+465665,light bulbs,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 106, 'x2': 1068, 'y1': 8277, 'y2': 8323}",NULL,NULL,NULL,NULL,NULL,NULL
+465666,batteries,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 110, 'x2': 1072, 'y1': 8223, 'y2': 8269}",NULL,NULL,NULL,NULL,NULL,NULL
+465667,"bulky plastic items ( i.e. toys , hangers )",2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 111, 'x2': 1073, 'y1': 8191, 'y2': 8237}",NULL,NULL,NULL,NULL,NULL,NULL
+465668,yard waste,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 104, 'x2': 1066, 'y1': 8141, 'y2': 8187}",NULL,NULL,NULL,NULL,NULL,NULL
+465669,food waste,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 104, 'x2': 1066, 'y1': 8100, 'y2': 8146}",NULL,NULL,NULL,NULL,NULL,NULL
+465670,shredded paper,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 104, 'x2': 1066, 'y1': 8065, 'y2': 8111}",NULL,NULL,NULL,NULL,NULL,NULL
+465671,household garbage,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 104, 'x2': 1066, 'y1': 8016, 'y2': 8062}",NULL,NULL,NULL,NULL,NULL,NULL
+465672,styrofoam packaging or food containers,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 107, 'x2': 1069, 'y1': 7980, 'y2': 8026}",NULL,NULL,NULL,NULL,NULL,NULL
+465673,Plastic wrap ( i.e. thin plastic food wrap or shrink wrapping product packaging ) .,2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 113, 'x2': 1075, 'y1': 7936, 'y2': 7982}",NULL,NULL,NULL,NULL,NULL,NULL
+465674,"Plastic bags ( i.e. shopping bags , cereal bags , trash bags )",2021-08-02 16:55:03.003,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 113, 'x2': 1075, 'y1': 7895, 'y2': 7941}",NULL,NULL,NULL,NULL,NULL,NULL
+465675,Milk & juice cartons Ice cream cartons Broth & soup cartons,2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 109, 'x2': 933, 'y1': 6328, 'y2': 6477}",NULL,NULL,NULL,NULL,NULL,NULL
+465676,Glass bottles ( caps and labels can be left on containers ) Glass jars ( lids and labels can be left on containers ),2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 113, 'x2': 937, 'y1': 5890, 'y2': 6039}",NULL,NULL,NULL,NULL,NULL,NULL
+465677,Aluminum cans and caps / lids Steel and tin cans,2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 113, 'x2': 937, 'y1': 5375, 'y2': 5524}",NULL,NULL,NULL,NULL,NULL,NULL
+465678,"Clean food boxes ( cereal boxes , microwave meals , boxes of rice , etc. ) Paper towel rolls Paper egg cartons",2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 112, 'x2': 936, 'y1': 4923, 'y2': 5072}",NULL,NULL,NULL,NULL,NULL,NULL
+465679,Corrugated cardboard boxes Soda / beverage boxes Shoe boxes Gift boxes,2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 115, 'x2': 939, 'y1': 4745, 'y2': 4917}",NULL,NULL,NULL,NULL,NULL,NULL
+465680,"Soap and shampoo bottles Rigid plastic product packaging , such as clean rigid clamshell containers Plastic cups",2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 110, 'x2': 934, 'y1': 4146, 'y2': 4318}",NULL,NULL,NULL,NULL,NULL,NULL
+465681,"Water bottles Soda bottles Milk jugs Liquid containers Jars and tubs ( yogurt , margarine tubs , etc. ) Detergent and all - purpose cleaner bottles",2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 113, 'x2': 722, 'y1': 3879, 'y2': 4167}",NULL,NULL,NULL,NULL,NULL,NULL
+465682,Books / textbooks Coupons Posters Sticky notes Paper bags Wrapping paper,2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 107, 'x2': 365, 'y1': 3213, 'y2': 3501}",NULL,NULL,NULL,NULL,NULL,NULL
+465683,Magazines Newspapers Office paper Envelopes Junk mail / envelopes Greeting cards Catalogs,2021-08-02 16:55:03.003,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 113, 'x2': 371, 'y1': 2897, 'y2': 3212}",NULL,NULL,NULL,NULL,NULL,NULL
+465684,"Mixed Paper , Newspaper , Magazines , and Flattened Cardboard",2021-08-02 16:57:31.253,yes,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 1123, 'x2': 1484, 'y1': 597, 'y2': 735}",NULL,NULL,NULL,NULL,NULL,NULL
+465685,"Kitchen , Laundry , Bath : Bottles and Containers",2021-08-02 16:57:31.253,yes,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 1491, 'x2': 1843, 'y1': 593, 'y2': 667}",NULL,NULL,NULL,NULL,NULL,NULL
+465686,Bottles and Jars,2021-08-02 16:57:31.253,yes,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 816, 'x2': 1139, 'y1': 568, 'y2': 643}",NULL,NULL,NULL,NULL,NULL,NULL
+465687,Food and Beverage Cartons,2021-08-02 16:57:31.253,yes,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 435, 'x2': 758, 'y1': 593, 'y2': 668}",NULL,NULL,NULL,NULL,NULL,NULL
+465688,Aluminum and Steel Cans,2021-08-02 16:57:31.253,yes,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 88, 'x2': 411, 'y1': 595, 'y2': 670}",NULL,NULL,NULL,NULL,NULL,NULL
+465689,No Tanglers,2021-08-02 16:57:31.253,no,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 1502, 'x2': 1756, 'y1': 955, 'y2': 1031}",NULL,NULL,NULL,NULL,NULL,NULL
+465690,No Clothing or Linens,2021-08-02 16:57:31.253,no,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 1209, 'x2': 1463, 'y1': 975, 'y2': 1051}",NULL,NULL,NULL,NULL,NULL,NULL
+465691,No Food or Liquid,2021-08-02 16:57:31.253,no,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 864, 'x2': 1118, 'y1': 987, 'y2': 1063}",NULL,NULL,NULL,NULL,NULL,NULL
+465692,No Plastic Bags,2021-08-02 16:57:31.253,no,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 604, 'x2': 858, 'y1': 949, 'y2': 1025}",NULL,NULL,NULL,NULL,NULL,NULL
+465693,No Garbage,2021-08-02 16:57:31.253,no,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 324, 'x2': 578, 'y1': 1051, 'y2': 1127}",NULL,NULL,NULL,NULL,NULL,NULL
+465694,Do Not Bag Recyclables,2021-08-02 16:57:31.253,no,"{'originalSize': {'height': 4800, 'width': 7200}, 'x1': 318, 'x2': 572, 'y1': 975, 'y2': 1051}",NULL,NULL,NULL,NULL,NULL,NULL
+465695,empty aerosol ( spray ) cans,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 107, 'x2': 1109, 'y1': 8734, 'y2': 8782}",NULL,NULL,NULL,NULL,NULL,NULL
+465696,paint,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 106, 'x2': 1108, 'y1': 8689, 'y2': 8737}",NULL,NULL,NULL,NULL,NULL,NULL
+465697,motor oil and cooking oil,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 107, 'x2': 1109, 'y1': 8647, 'y2': 8695}",NULL,NULL,NULL,NULL,NULL,NULL
+465698,aluminum foil and trays,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 107, 'x2': 1109, 'y1': 8609, 'y2': 8657}",NULL,NULL,NULL,NULL,NULL,NULL
+465699,propane tanks,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 109, 'x2': 1111, 'y1': 8568, 'y2': 8616}",NULL,NULL,NULL,NULL,NULL,NULL
+465700,diapers or sanitary products,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 109, 'x2': 1111, 'y1': 8526, 'y2': 8574}",NULL,NULL,NULL,NULL,NULL,NULL
+465701,medical waste ( i.e. syringes ),2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 109, 'x2': 1111, 'y1': 8476, 'y2': 8524}",NULL,NULL,NULL,NULL,NULL,NULL
+465702,rope - like items ( i.e. garden hoses ),2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 109, 'x2': 1111, 'y1': 8438, 'y2': 8486}",NULL,NULL,NULL,NULL,NULL,NULL
+465703,"construction debris ( i.e. wood , insulation )",2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 109, 'x2': 1111, 'y1': 8393, 'y2': 8441}",NULL,NULL,NULL,NULL,NULL,NULL
+465704,clothing and shoes,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 102, 'x2': 1104, 'y1': 8351, 'y2': 8399}",NULL,NULL,NULL,NULL,NULL,NULL
+465705,electronics,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 103, 'x2': 1105, 'y1': 8316, 'y2': 8364}",NULL,NULL,NULL,NULL,NULL,NULL
+465706,light bulbs,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 101, 'x2': 1103, 'y1': 8277, 'y2': 8325}",NULL,NULL,NULL,NULL,NULL,NULL
+465707,batteries,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 105, 'x2': 1107, 'y1': 8223, 'y2': 8271}",NULL,NULL,NULL,NULL,NULL,NULL
+465708,"bulky plastic items ( i.e. toys , hangers )",2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 100, 'x2': 1102, 'y1': 8185, 'y2': 8233}",NULL,NULL,NULL,NULL,NULL,NULL
+465709,yard waste,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 102, 'x2': 1104, 'y1': 8139, 'y2': 8187}",NULL,NULL,NULL,NULL,NULL,NULL
+465710,food waste,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 102, 'x2': 1104, 'y1': 8103, 'y2': 8151}",NULL,NULL,NULL,NULL,NULL,NULL
+465711,shredded paper,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 102, 'x2': 1104, 'y1': 8060, 'y2': 8108}",NULL,NULL,NULL,NULL,NULL,NULL
+465712,household garbage,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 106, 'x2': 1108, 'y1': 8018, 'y2': 8066}",NULL,NULL,NULL,NULL,NULL,NULL
+465713,styrofoam packaging or food containers,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 105, 'x2': 1107, 'y1': 7974, 'y2': 8022}",NULL,NULL,NULL,NULL,NULL,NULL
+465714,Plastic wrap ( i.e. thin plastic food wrap or shrink wrapping / product packaging ) . otur,2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 105, 'x2': 1107, 'y1': 7935, 'y2': 7993}",NULL,NULL,NULL,NULL,NULL,NULL
+465715,"Plastic bags ( i.e. shopping bags , cereal bags , trash bags ) .",2021-08-02 17:02:16.013,no,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 105, 'x2': 1107, 'y1': 7889, 'y2': 7947}",NULL,NULL,NULL,NULL,NULL,NULL
+465716,Broth & soup cartons,2021-08-02 17:02:16.013,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 107, 'x2': 931, 'y1': 6416, 'y2': 6520}",NULL,NULL,NULL,NULL,NULL,NULL
+465717,Milk & juice cartons Ice cream cartons,2021-08-02 17:02:16.013,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 115, 'x2': 939, 'y1': 6321, 'y2': 6425}",NULL,NULL,NULL,NULL,NULL,NULL
+465719,Aluminum cans and caps / lids Steel and tin cans,2021-08-02 17:02:16.013,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 117, 'x2': 941, 'y1': 5382, 'y2': 5486}",NULL,NULL,NULL,NULL,NULL,NULL
+465720,Paper egg cartons,2021-08-02 17:02:16.013,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 117, 'x2': 941, 'y1': 5026, 'y2': 5130}",NULL,NULL,NULL,NULL,NULL,NULL
+465722,Shoe boxes Gift boxes,2021-08-02 17:02:16.013,yes,"{'originalSize': {'height': 13078, 'width': 1600}, 'x1': 112, 'x2': 936, 'y1': 4829, 'y2': 4933}",NULL,NULL,NULL,NULL,NULL,NULL
+280509,"all clean paper ( ,cartons,& corrugated boxes,;  &  (must be empty & dry); all  hangers;",2020-11-09 13:06:52.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280510,No text - category selected manually,2020-11-09 13:06:52.033,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280511,"paper
+this is an image of items that can be recycled:  box, paper,  mail, office and school paper
+ , and 
+,
+
+fiberboard boxes (cracker/cereal)
+
+metal
+steel food containers
+
+
+plastics
+
+detergent bottles
+cleaning solution bottles
+
+cartons
+milk and creamer containers",2020-11-09 13:06:52.780,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280512,No text - category selected manually,2020-11-09 13:06:52.780,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280513,"empty aerosal cans are recyclable  are recyclable is recyclable  are recyclable 
+
+mail is recyclable juice and  are recyclable  paper is recyclable pizza and food cardvoard boxes are recyclable",2020-11-09 13:06:53.003,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280514,Styrofoam and Clear Plastic Clamshells,2020-11-09 13:06:53.047,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280515,"aluminum
+tin/steel
+cereal-type boxes
+cartons
+,/",2020-11-09 13:06:53.483,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280516,"no  foam
+(eg. packing materials or take-out containers)
+no waxed carton or waxed paper
+no rubber or hard plastics
+no garden hoses, rope or cords
+no toys
+no mirrors, tempered  or ceramics
+no electronics or household batteries
+(see page 14)
+no sharps containers, light bulbs or
+hazardous waste (see page 14)",2020-11-09 13:06:53.613,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280573,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+306757,No text - category selected manually,2020-11-16 15:28:45.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+310641,No text - category selected manually,2020-11-16 15:31:10.730,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280534,"paper
+,and , (no need to shred them)
+shredded personal documents
+boxes, such as ,pasta boxes, frozen dinner boxes and drink cartons
+shoe boxes
+ and ,
+
+copy and computer paper -- white and colors
+protective paper wrapping on shoes, purses, etc.
+plastic
+water/soda bottles (with lids removed)
+detergent, soap, and shampoo bottles (with lids removed)
+milk jugs
+butter, sour cream, and yogurt tubs
+syrup, peanut butter, and squeezable jelly bottles
+metal
+clean aluminum, tin, and steel
+ for things like vegetables and soup
+ - sodas, energy drinks, etc.
+other",2020-11-09 13:06:55.140,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280535,"plastic bags
+plastic film
+
+household hazardous waste
+food waste or liquids
+containers with food residuals (like ,)
+wet paper products
+yard waste (grass trimmings, branches)
+styrofoam
+waxed paper or waxed",2020-11-09 13:06:55.320,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280536,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280537,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280538,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280539,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280540,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280541,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280542,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280543,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280544,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280545,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280546,No text - category selected manually,2020-11-09 13:06:55.320,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+312353,No text - category selected manually,2020-11-16 15:32:14.940,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+312354,No text - category selected manually,2020-11-16 15:32:14.940,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+312355,No text - category selected manually,2020-11-16 15:32:14.940,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+312356,Aluminum cans,2020-11-16 15:32:15.370,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280574,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280575,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280576,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280577,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280578,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280579,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280580,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280581,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280582,No text - category selected manually,2020-11-09 13:06:57.253,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280583,"and lids, soda crates, garbage cans and 18-gallon recycling bins.
+
+paper products, color paper, mail, non-foil   and greeting cards that don’t have electrical devices.
+
+also acceptable:   lids, paper towel rolls,egg cartons, flattened boxes",2020-11-09 13:06:57.860,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280584,"books,  film, coat hangers, flower pots, pots and pans that have electric plugs, cereal bags, styrofoam, bubble wrap, ceramic, broken",2020-11-09 13:06:58.040,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280585,"#1 plastic(pete), #2 plastic (hdpe colored), #2 plastic (hdpe clear),and ,white ",2020-11-09 13:06:58.433,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280586,No text - category selected manually,2020-11-09 13:06:58.433,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280587," ( ,
+ tin
+plastics (hard containers, bottles numbers 1 and 2 only)",2020-11-09 13:06:58.780,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280588,"plastic bags
+glass",2020-11-09 13:06:58.830,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280589,"paper, advertising , and",2020-11-09 13:06:59.537,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+314654,No text - category selected manually,2020-11-16 15:33:41.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+314655,No text - category selected manually,2020-11-16 15:33:41.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+314656,No text - category selected manually,2020-11-16 15:33:41.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280793,junk mail,2020-11-09 14:05:48.147,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280794,envelopes,2020-11-09 14:05:48.147,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280795,magazines,2020-11-09 14:05:48.147,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280796,catalogs,2020-11-09 14:05:48.147,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281025,shredded paper (contained in a paper bag or box),2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280814,food cans,2020-11-09 14:05:49.260,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280815,aluminum foil,2020-11-09 14:05:49.260,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280816,aluminum trays & pans,2020-11-09 14:05:49.260,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300289,magazines,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+317211,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+317212,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+317213,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+317214,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+317215,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280999,"bottles: (plastic &  - plastic bottles* milk, water, detergent, soda and shampoo (flatten and replace cap);",2020-11-09 14:05:55.450,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281000,juice cartons and milk cartons,2020-11-09 14:05:55.453,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281001,"paper, bottles, cans (food/ beverage)
+
+
+    paper: clean and dry  , printer paper, copier paper, mail and all other , without wax liners: packing boxes, gift boxes and ; flatten all boxes before placing them in your cart
+    cans,aluminum bottles are also accepted
+    cartons: aseptic poly-coated drink boxes",2020-11-09 14:05:55.453,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300534,frozen food boxes,2020-11-16 15:24:34.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300535,paperback books,2020-11-16 15:24:34.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281026,corrugated cardboard,2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281027,phone books,2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281028,newspaper (including inserts),2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281029,junk mail,2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281030,magazines,2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+320147,No text - category selected manually,2020-11-17 08:03:13.647,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+320148,No text - category selected manually,2020-11-17 08:03:13.647,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+320149,No text - category selected manually,2020-11-17 08:03:13.647,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+320150,No text - category selected manually,2020-11-17 08:03:13.647,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+320151,No text - category selected manually,2020-11-17 08:03:13.647,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+320152,No text - category selected manually,2020-11-17 08:03:13.647,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+281056,"animal waste
+- animal waste bags
+- bubble wrap packaging+
+-  cds & dvds (both disks and plastic cases)
+- carbon paper
+- carpet
+- cat litter
+- ceramic pottery, mugs, dishes
+- cigarette butts
+
+- deceased animals (up to 10 lbs.)
+- dishes
+- disposable diapers
+- egg cartons (polystyrene foam)
+- flooring
+- food waste
+- garden hoses
+-  dishes
+-  window panes
+- mirrors
+- napkins
+
+- old clothes (not suitable for donation)
+- palm / yucca fronds
+- paper towels
+- soiled paper plates
+- polystyrene foam
+- polystyrene foam packing peanuts+
+- tissue
+- toothpaste tubes
+- vcr tapes
+- waxed paper
+- plastic bags (all types)",2020-11-09 14:05:58.040,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281057,paint cans,2020-11-09 14:05:58.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281058,empty aerosol,2020-11-09 14:05:58.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281059,aluminum cans,2020-11-09 14:05:58.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281060,tin/steel food cans,2020-11-09 14:05:58.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281061,clear glass bottles and jars,2020-11-09 14:05:58.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+321939,Aluminum cans,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+321940,cardboard,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+321941,paper,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+321942,No text - category selected manually,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300290,catalogs,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300291,"paper
+, , and  (no need to shred them)
+shredded personal documents
+boxes, such as , pasta boxes, frozen dinner boxes and drink cartons
+shoe boxes
+ and 
+
+copy and computer paper -- white and colors
+protective paper wrapping on shoes, purses, etc.
+plastic
+water/soda bottles (with lids removed)
+detergent, soap, and shampoo bottles (with lids removed)
+milk jugs
+butter, sour cream, and yogurt tubs
+syrup, peanut butter, and squeezable jelly bottles
+metal
+clean aluminum, tin, and steel
+ for things like vegetables and soup
+ - sodas, energy drinks, etc.
+other 
+ea cans",2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300292,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300293,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300294,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300295,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300296,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300297,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300298,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300299,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300300,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300301,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300302,No text - category selected manually,2020-11-16 15:24:25.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+323583,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+323584,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+323585,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+323586,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+323587,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300309,"plastic #1 (pet)
+plastic #2",2020-11-16 15:24:25.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300310,plastic bottles,2020-11-16 15:24:25.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300311,plastic food storage containers,2020-11-16 15:24:25.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300312,cardboard,2020-11-16 15:24:25.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+317216,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+317217,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+317218,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+317219,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300536,envelopes,2020-11-16 15:24:34.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300537,magazines,2020-11-16 15:24:34.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300538,catalogs,2020-11-16 15:24:34.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300539,inserts,2020-11-16 15:24:34.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300540,"plastic
+
+shampoo, conditioner bottles
+household cleaner bottles
+detergent,fabric softener bottles
+yogurt, dairy and margarine tubs
+new! plastic plant pots (no soil)
+plastic cups
+ any color
+
+soda cans
+
+new! clean 
+paper and 
+, 
+mail,  (windowed too)
+cereal and dry food boxes (no liners)
+
+
+,  and 
+non-foil 
+ milk, soy milk and broth containers
+milk, ice cream cartons
+paper cups, coffee cups
+metal",2020-11-16 15:24:34.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300617,cardboard (flattened),2020-11-16 15:24:37.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300618,phone books,2020-11-16 15:24:37.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300619,newspapers and inserts,2020-11-16 15:24:37.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300620,paperback books,2020-11-16 15:24:37.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+310642,Metal Containers,2020-11-16 15:31:10.947,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+310643,glass containers,2020-11-16 15:31:10.947,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+310644,"plastic containers
+(single polymer plastics)",2020-11-16 15:31:10.947,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300715,inserts,2020-11-16 15:24:43.107,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300716,"all
+ including 
+ and 
+
+
+
+ and 
+ pots and toys
+
+ after rinsing out
+
+paper",2020-11-16 15:24:43.107,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300717,Tin and Aluminum Cans,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300718,plastics with #1 through #7,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300719,shredded paper,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300720,cardboard,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300721,phone books,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300722,newspaper and inserts,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300723,office paper,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300724,junk mail,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300725,envelopes,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300726,magazines,2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300858,pie plates and foil,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300859,"clear, brown and green glass containers",2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300860,milk cartons,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300861,"juice cartons, and drink boxes",2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300862,plastic containers with the one through seven recycling code on them,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300863,brown paper grocery bags,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300864,newspapers,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300865,magazines,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300866,catalogs,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300867,"and ,  clean corrugated boxes
+ - with no lids",2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300868,No text - category selected manually,2020-11-16 15:24:48.727,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300900,junk mail,2020-11-16 15:24:49.683,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300901,envelopes,2020-11-16 15:24:49.683,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300902,magazines,2020-11-16 15:24:49.683,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301015,cardboard,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+314657,No text - category selected manually,2020-11-16 15:33:41.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+314658,No text - category selected manually,2020-11-16 15:33:41.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301016,phone books,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301017,newspaper,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301018,frozen food boxes,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301019,file folders,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301020,envelopes,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301021,magazines,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301022,"boxes (flattened)   milk and  poster board 
+paper brochures    paper 
+ pots, pans, tins and utensils .
+glass on the side",2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301023,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301024,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301025,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301026,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301027,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301028,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301029,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301030,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301031,No text - category selected manually,2020-11-16 15:24:54.733,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280517,"#1 and #2 plastic bottles, oil, antifreeze",2020-11-09 13:06:53.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280547,"egg cartons (plastic)
+milk jugs
+(hdpe)
+plastic #3 (pvc)
+plastic #4 (ldpe)
+plastic #5 (polypropylene)
+plastic #7 (other)
+
+plastic cups
+
+rigid plastic #6 (polystyrene)
+yogurt cups
+construction paper
+egg cartons (paper)
+,
+gift boxes
+hanging , & ,
+manila folders
+
+,
+
+paper towel & toilet paper rolls
+,
+
+posters
+sticky notes
+
+
+
+
+license plates
+
+construction paper
+posters
+license plates
+paper towel & toilet paper rolls
+
+egg cartons (paper)
+egg cartons (plastic)
+
+
+milk jugs
+gift boxes",2020-11-09 13:06:56.240,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+280649,No text - category selected manually,2020-11-09 13:15:43.023,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280800,pizza boxes,2020-11-09 14:05:48.330,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281031,catalogs,2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300344,"glass (bottles and containers only): brown, clear and green",2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300345,plastic bottles,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+306878,No text - category selected manually,2020-11-16 15:28:49.623,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+306879,No text - category selected manually,2020-11-16 15:28:49.623,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+280817,"glass bottles
+jars",2020-11-09 14:05:49.260,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281002,glass,2020-11-09 14:05:55.720,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300541,"beverage containers, milk/juice cartons and drink boxes (rinsed out)
+• Aluminum and steel – food and beverage containers",2020-11-16 15:24:35.087,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300542,"plastic containers (narrow necks only) such as bottles, as well as milk, water, detergent and shampoo containers (rinsed out)",2020-11-16 15:24:35.087,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300543,soda cartons,2020-11-16 15:24:35.087,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281086,empty aerosol,2020-11-09 14:05:59.743,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300313,phone books,2020-11-16 15:24:25.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300314,paper bags,2020-11-16 15:24:25.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300315,newspapers,2020-11-16 15:24:25.920,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+310645,cardboard,2020-11-16 15:31:10.947,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+310646,paper  recyclable,2020-11-16 15:31:10.947,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300621,magazines,2020-11-16 15:24:37.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300622,catalogs,2020-11-16 15:24:37.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300623,"food and beverage cartons
+rinse and leave on caps
+milk
+juice
+soup and broth
+wine
+paper
+mail, office and school papers (not shredded)
+ and 
+
+
+ (no hard covers)
+boxes: cereal, crackers, pasta, cake mixes, pop, beer, toothpaste and other toiletries, medications, and shoes
+plastic  rinse and leave on caps and lids
+: water, soda, milk, juice, ketchup, salad dressing, dish soap, detergent, shampoo, soap, and lotion
+cups: yogurt, pudding, and fruit cups, clear disposable drinking cups",2020-11-16 15:24:37.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300727,"home  products (fax sheets, typing paper, receipts, )",2020-11-16 15:24:43.573,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300728,Scrap metal,2020-11-16 15:24:44.213,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+312428,No text - category selected manually,2020-11-16 15:32:16.690,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+312429,No text - category selected manually,2020-11-16 15:32:16.690,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300903,catalogs,2020-11-16 15:24:49.683,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300904,"paper
+beverage carriers
+blueprints
+booklets
+brochures and flyers
+church bulletins
+construction paper
+cracker/
+folders
+greeting cards
+index cards
+instruction manuals
+
+ and 
+manilla 
+milk and 
+
+
+paper plates
+paper towel tubes
+
+
+
+soft back books
+sprial notebooks
+tissue paper
+gift bags
+
+butter tubs
+carryout containers
+condiment bottles
+contact solution bottles
+deodorant tubes
+frozen food trays
+garden planter containers
+laundry baskets
+laundry detergent bottles
+milk crates
+plastic buckets
+plastic hangars
+produce containers
+salad dressing bottles
+shampoo bottles
+soda 
+solo cups
+storage totes
+tupperware
+water bottles
+yogurt containers
+
+coffee cans
+disposable 
+jar lids
+metal hangars
+pet 
+pots and pans
+soda and beer cans
+soup cans
+tuna cans
+wire baskets
+fruit and vegetables trays",2020-11-16 15:24:49.683,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300905,aluminum cans,2020-11-16 15:24:50.063,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300906,metal cans,2020-11-16 15:24:50.063,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300907,plastic #1 – #7,2020-11-16 15:24:50.063,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300908,"cardboard (flattened, bundled & placed on the curb)",2020-11-16 15:24:50.063,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300923,"- 
+
+
+       
+
+
+
+plastics 	
+codes 1 through 7 must be stamped on item	 	
+    
+boxboard
+
+	 	
+aluminum
+steel",2020-11-16 15:24:50.490,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301041,milk cartons,2020-11-16 15:24:57.453,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301042,juice boxes,2020-11-16 15:24:57.453,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301043,plastic containers marked with a 1 through 7,2020-11-16 15:24:57.453,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301044,"plastic containers
+    recycle all",2020-11-16 15:24:57.453,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301045,cardboard,2020-11-16 15:24:57.453,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+314659,No text - category selected manually,2020-11-16 15:33:42.833,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+314660,No text - category selected manually,2020-11-16 15:33:42.833,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301158,aluminum foil,2020-11-16 15:25:02.730,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301159,glass bottles and jars,2020-11-16 15:25:02.730,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301160,"juice cartons
+    coated and non-coated frozen food boxes",2020-11-16 15:25:02.730,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+317220,No text - category selected manually,2020-11-16 15:35:26.873,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301193,beverage cans,2020-11-16 15:25:04.283,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301194,juice boxes,2020-11-16 15:25:04.283,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301195,milk cartons,2020-11-16 15:25:04.283,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301196,juice cartons,2020-11-16 15:25:04.283,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301197,aseptic cartons,2020-11-16 15:25:04.283,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+320304,newspaper,2020-11-17 08:03:19.683,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+320305,office paper,2020-11-17 08:03:19.683,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301308,"glass bottles
+    glass jars",2020-11-16 15:25:08.623,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301309,"bottles, jugs, and tubs (clean, 6 ounces or larger)",2020-11-16 15:25:08.623,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301310,shredded paper (in paper bag),2020-11-16 15:25:08.623,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301311,cardboard (flattened),2020-11-16 15:25:08.623,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301312,phone books,2020-11-16 15:25:08.623,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+321943,No text - category selected manually,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+321944,No text - category selected manually,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+321945,No text - category selected manually,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+321946,No text - category selected manually,2020-11-17 08:04:26.193,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301423,tin & bi-metal cans,2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301424,"foil (clean)
+	 	 and food trays (clean)",2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301425,glass bottles & jars (clean),2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301426,"plastic bottles, jugs & tubs",2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301427,shredded paper in a paper bag,2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301428,cardboard,2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301429,newspaper,2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301430,office paper,2020-11-16 15:25:13.000,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301531,catalogs,2020-11-16 15:25:17.073,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301532," , 
+    white or colored paper
+    paper sacks, 
+     and 
+
+    prepared food boxes
+    shoe boxes
+    moving/shipping boxes
+    egg cartons
+    paper towel/toilet paper tubes
+     (if not soiled w/grease or food)]
+ 
+    beverage 
+    shampoo and soap bottles
+    liquid laundry detergent jugs
+    lids are accepted, but lids must be attached to the original container.
+
+     clean foil and",2020-11-16 15:25:17.073,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301551,cardboard (please clean out trash and debris),2020-11-16 15:25:18.223,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301552,cardboard (north gila only),2020-11-16 15:25:18.223,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301689,newspaper,2020-11-16 15:25:26.213,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301690,office paper,2020-11-16 15:25:26.213,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301691,junk mail,2020-11-16 15:25:26.213,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301692,magazines,2020-11-16 15:25:26.213,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301693,"boxboard (dry-food boxes, egg cartons & rolls)
+    
+    
+     ,  &  (",2020-11-16 15:25:26.213,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301694,METAL All cans,2020-11-16 15:25:26.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301695,"plastic water, soda, juice, milk and detergent bottles",2020-11-16 15:25:26.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301696,cardboard,2020-11-16 15:25:26.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301697,newspaper,2020-11-16 15:25:26.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301698,office paper,2020-11-16 15:25:26.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301699,"paper  , and",2020-11-16 15:25:26.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+323588,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+323589,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+323590,No text - category selected manually,2020-11-17 08:05:28.243,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+301822,cereal boxes,2020-11-16 15:25:31.570,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301823,junk mail,2020-11-16 15:25:31.570,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301824,magazines,2020-11-16 15:25:31.570,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301825,catalogs,2020-11-16 15:25:31.570,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301826,"boxboard (, egg cartons, etc.)
+
+food and beverage cartons
+
+ and 
+
+
+paperback and hardcover books
+
+
+rigid plastics (toys, laundry baskets, buckets, etc.)",2020-11-16 15:25:31.570,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301827,"beverage containers (clear, brown and green)
+Metals - aluminum and steel food and beverage containers",2020-11-16 15:25:32.127,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+324721,glass bottles and jars,2020-11-17 08:06:09.377,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+324722,plastic containers,2020-11-17 08:06:09.377,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301874,"metal (no liquids or food)
+
+    
+    aluminum foil and trays (ball foil up to softball size)",2020-11-16 15:25:34.207,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301875,"glass (no liquids or food)
+
+    glass bottles and jars",2020-11-16 15:25:34.207,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301876,juice cartons,2020-11-16 15:25:34.207,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301953,cardboard,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+326452,No text - category selected manually,2020-11-17 08:07:10.953,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+326453,No text - category selected manually,2020-11-17 08:07:10.953,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+302141,glass bottles,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302142,plastic bottles,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302143,"plastic containers, tubs",2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302144,cardboard boxes,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302145,newspaper,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302146,office paper,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302147,pizza boxes,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302148,junk mail,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+329140,No text - category selected manually,2020-11-17 08:08:51.907,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+329141,No text - category selected manually,2020-11-17 08:08:51.907,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+302271,"glass containers of any color (brown, clear and green glass bottles and jars)",2020-11-16 15:25:50.380,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302272,milk cartons,2020-11-16 15:25:50.380,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302273,plastic containers #1-7,2020-11-16 15:25:50.380,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302274,cardboard,2020-11-16 15:25:50.380,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+330248,No text - category selected manually,2020-11-17 08:09:33.227,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+330249,No text - category selected manually,2020-11-17 08:09:33.227,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+330250,No text - category selected manually,2020-11-17 08:09:33.227,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+331580,No text - category selected manually,2020-11-17 08:10:17.080,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+332974,No text - category selected manually,2020-11-17 08:11:12.343,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+332975,No text - category selected manually,2020-11-17 08:11:12.343,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+302367,white paper,2020-11-16 15:25:53.797,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302368,junk mail,2020-11-16 15:25:53.797,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302369,chipboard,2020-11-16 15:25:53.797,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302370,magazines,2020-11-16 15:25:53.797,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+335451,No text - category selected manually,2020-11-17 08:12:51.680,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+335452,No text - category selected manually,2020-11-17 08:12:51.680,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+335453,No text - category selected manually,2020-11-17 08:12:51.680,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+335454,No text - category selected manually,2020-11-17 08:12:51.680,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+335455,No text - category selected manually,2020-11-17 08:12:51.680,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+302380,"and onthe bottom.   
+computer paper, printouts, tab cards, coloredstationery, copy paper, ,  ofany color, manila folders, , ncrpaper.",2020-11-16 15:25:54.177,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302381,Aerosols,2020-11-16 15:25:54.607,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302382,"metal lids from bottles, cans",2020-11-16 15:25:54.607,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302383,tin and aluminum cans,2020-11-16 15:25:54.607,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302384,aluminum foil,2020-11-16 15:25:54.607,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302385,"plastic bottles, milk jugs",2020-11-16 15:25:54.607,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+336192,No text - category selected manually,2020-11-17 08:13:19.657,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+336193,No text - category selected manually,2020-11-17 08:13:19.657,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+302577,"12"" x 24""per piece)",2020-11-16 15:26:03.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302578,"containers, pop/water bottles",2020-11-16 15:26:03.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302579,soda boxes,2020-11-16 15:26:03.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302580,corrugated cardboard,2020-11-16 15:26:03.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302581,newspapers (glossy inserts okay),2020-11-16 15:26:03.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302582,junk mail,2020-11-16 15:26:03.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+338978,,2020-11-17 09:47:08.303,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+338979,aluminum cans,2020-11-17 09:47:08.560,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+302714,corrugated containers/cardboard (uncoated),2020-11-16 15:26:07.977,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302715,cardboard,2020-11-16 15:26:07.977,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302716,phone books,2020-11-16 15:26:07.977,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302717,newspaper,2020-11-16 15:26:07.977,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+340004,No text - category selected manually,2020-11-17 09:47:55.200,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+340005,No text - category selected manually,2020-11-17 09:47:55.200,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+302757,phone books.,2020-11-16 15:26:09.633,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302758,newspapers,2020-11-16 15:26:09.633,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302759,office paper,2020-11-16 15:26:09.633,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302760,junk mail,2020-11-16 15:26:09.633,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302761,magazines,2020-11-16 15:26:09.633,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302762,"number.
+cans including .
+ cut to fit inside the can.
+boxes for items such as the following and more:
+cake mix
+cereal
+crackers
+shoes
+soft drinks
+paper including  notebook paper and .
+.
+, catalogues and",2020-11-16 15:26:09.633,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302763,paint cans,2020-11-16 15:26:10.440,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+340371,newspaper,2020-11-17 09:48:10.793,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+340372,mixed paper,2020-11-17 09:48:10.793,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+302959,catalogs,2020-11-16 15:26:15.983,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302960,"paper products:  , ,  printer paper, copier paper, mail and all other  without wax liners: packing boxes, , gift boxes and . flatten boxes before placing in your cart
+cans: ; aluminum bottles are also accepted
+cartons: aseptic poly-coated drink boxes",2020-11-16 15:26:15.983,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302961,"aluminum cans, steel cans",2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302962,"plastics #1, 2 and 5",2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302963,shredded paper,2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302964,cardboard,2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302965,newspaper,2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302966,office paper,2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302967,magazines,2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302968,catalogs,2020-11-16 15:26:16.323,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302969,"Aluminum and steel cans: Generally, all beverage cans",2020-11-16 15:26:16.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+341324,No text - category selected manually,2020-11-17 09:48:52.933,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+341325,No text - category selected manually,2020-11-17 09:48:52.933,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+341326,No text - category selected manually,2020-11-17 09:48:52.933,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+303081,magazines,2020-11-16 15:26:20.590,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303082,catalogs,2020-11-16 15:26:20.590,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303083,"scrap paper
+this includes , ,  and
+, etc. 
+
+
+plastics",2020-11-16 15:26:20.590,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303184,catalogs,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303185,inserts,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303186,"plastics
+• all plastics
+(#1 - #7) 
+paper
+•  w/
+
+• , 
+• 
+• 
+• food boxes
+•  
+
+•  (clean)
+• shipping boxes
+• beverage cases",2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303187,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303188,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303189,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303190,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303191,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303192,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303193,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303194,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303195,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303196,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303197,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303198,No text - category selected manually,2020-11-16 15:26:25.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303199,Metal Containers,2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303200,"glass: clear, green or brown",2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303227,"paper products:  , ,  printer paper, copier paper, mail and all other  without wax liners: packing boxes, , gift boxes and . flatten boxes before placing in your cart
+cans: ; aluminum bottles are also accepted
+cartons: aseptic poly-coated drink boxes",2020-11-16 15:26:27.017,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303228,Tin Cans,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303229,aluminum- foil,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303230,"plastics #1 and #2- milk, cider and laundry jugs",2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303231,corrugated cardboard boxes,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303232,phone books,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303233,paper bag,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+341807,No text - category selected manually,2020-11-17 09:49:14.587,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+341808,No text - category selected manually,2020-11-17 09:49:14.587,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+303313,"– – 
+ glass only
+household plastic – grocery bags
+ – , brochures, postcards, etc.
+ & catalogues – all types & sizes
+ – bands
+ –",2020-11-16 15:26:30.673,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303314,Aluminum Bottles & Cans,2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303315,"steel, tin & bi-metal cans",2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303316,"beverage bottles, cups & containers",2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303317,"glass
+
+food & drink glass bottles & jars",2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303318,"bottles, jars & jugs",2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303319,cardboard,2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303320,newspapers & inserts,2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+342127,No text - category selected manually,2020-11-17 09:49:26.020,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+342128,No text - category selected manually,2020-11-17 09:49:26.020,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+342129,No text - category selected manually,2020-11-17 09:49:26.020,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+303531,glass bottles and jars: glass bottles and jars (all colors),2020-11-16 15:26:38.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303532,plastics #1 - #5 and #7,2020-11-16 15:26:38.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303533,cardboard,2020-11-16 15:26:38.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303534,phone books,2020-11-16 15:26:38.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303535,paper bags,2020-11-16 15:26:38.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303536,newspapers,2020-11-16 15:26:38.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303537,mixed paper,2020-11-16 15:26:38.463,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+342535,BEVERAGE CANS,2020-11-17 09:49:42.560,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+303566,plastic containers marked no.1 - no.7,2020-11-16 15:26:39.710,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303567,"cardboard (cereal boxes, gift boxes, rice boxes, etc.)",2020-11-16 15:26:39.710,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303568,"corrugated cardboard (moving boxes, etc.)",2020-11-16 15:26:39.710,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303569,"phone books
+shoe boxes",2020-11-16 15:26:39.710,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+343399,plastic containers,2020-11-17 09:50:17.170,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+343400,cardboard,2020-11-17 09:50:17.170,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+343401,"paper, and cartons  
+ lids, and foil",2020-11-17 09:50:17.170,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+457879,Plastic bags,2021-07-06 14:39:26.953,no,"{'originalSize': {'height': 6812, 'width': 1600}, 'x1': 1064, 'x2': 1535, 'y1': 3660, 'y2': 3703}",NULL,NULL,NULL,NULL,NULL,NULL
+303701,tin & steel cans,2020-11-16 15:26:46.803,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303702,"food cans, fruit and vegetable cans",2020-11-16 15:26:46.803,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303703,aluminum foil,2020-11-16 15:26:46.803,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303704,"pie pans
+and other small scrap.",2020-11-16 15:26:46.803,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303705,plastic bottles,2020-11-16 15:26:46.803,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303805,"glass bottles & jars (clear, green & brown)",2020-11-16 15:26:49.267,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303806,"plastic bottles, jars & small containers with codes #1, #2, #3, #4, #5, and #7",2020-11-16 15:26:49.267,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303807,,2020-11-16 15:26:49.267,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303808,Aluminum/Tin Cans,2020-11-16 15:26:49.397,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303809,cardboard,2020-11-16 15:26:49.397,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303810,"glass (excluding tempered or mirrors)
+paper
+plastic #1 and #2",2020-11-16 15:26:49.397,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303811,Tin food cans,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303812,aluminum cans,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303813,aluminum foil/pans,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303814,plastic bottles,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303815,cardboard,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303816,newspaper,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303817,office paper,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303818,magazines,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303819,#1-#7,2020-11-16 15:26:49.783,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303820,food	&	drink	cans,2020-11-16 15:26:50.073,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303821,"plastic	
+1
+&
+2",2020-11-16 15:26:50.073,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303822,cardboard,2020-11-16 15:26:50.073,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303943,brown paper bags,2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303944,newspaper,2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303945,cereal boxes,2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303946,junk mail,2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303947,chipboard,2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303948,magazines,2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303949,catalogs,2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303950,"ea cans
+    
+    beer and wine bottles
+    
+    
+     (, shoe boxes, etc.)
+    
+    food jars",2020-11-16 15:26:55.577,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303951,Cardboard,2020-11-16 15:26:55.660,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303952,paper,2020-11-16 15:26:55.660,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303961,"beverage containers
+    food containers
+    jars
+    clear glass
+    brown glass
+    green glass
+
+
+    beverage containers (ubcs)
+    
+    steel food beverage containers
+    trays and foil",2020-11-16 15:26:56.777,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303962,"glass
+
+glass bottles recycle 	
+yes!",2020-11-16 15:26:56.777,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303963,"juice cartons
+    soda, water, 
+    health & beauty aid product bottles
+    household cleaners
+    margarine tubs
+    frozen dessert cups
+    6-pack and 12-pack rings
+    yogurt cups
+    narrow neck grocery item bottles
+    syrup and ketchup bottles",2020-11-16 15:26:56.777,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+343992,No text - category selected manually,2020-11-17 09:50:45.690,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+344784,No text - category selected manually,2020-11-17 09:51:16.857,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+344785,No text - category selected manually,2020-11-17 09:51:16.857,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+301954,paper bags,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301955,newspapers and inserts,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301956,office paper,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301957,pizza boxes,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301958,junk mail,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301959,chipboard,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+345458,No text - category selected manually,2020-11-17 09:51:40.033,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+345459,No text - category selected manually,2020-11-17 09:51:40.033,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+345460,No text - category selected manually,2020-11-17 09:51:40.033,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+345461,No text - category selected manually,2020-11-17 09:51:40.033,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+303964,"#1, #2",2020-11-16 15:26:56.777,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303965,beer cases),2020-11-16 15:26:56.777,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303966,cardboard,2020-11-16 15:26:56.777,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304145,aluminum pans,2020-11-16 15:27:03.960,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304146,"aluminum, steel), plastic, glass (brown, green, clear), paper (newspaper and inserts, cardboard),  foil",2020-11-16 15:27:03.960,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304147,cans (,2020-11-16 15:27:03.960,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304148,Scrap metal,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304149,aluminum beverage cans,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304150,food cans,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304151,milk cartons,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304152,cardboard,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304153,phone books,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304154,newspaper,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304155,frozen food boxes,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304156,file folders,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304157,junk mail,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304158,envelopes,2020-11-16 15:27:04.513,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304264,"corrugated
+cardboard.",2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304265,newspapers & inserts,2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304266,magazines,2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304267,catalogs,2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304268,"glass all juice, pop & soda 
+beer & wine  can be
+recycled. 
+ . 
+ items with a recycling logo of
+“ located on the bottom of the
+item can be recycled. (for example: soda
+ remove all caps or lids 
+paper   and
+, office and school paper,
+computer paper, discarded mail, paper
+grocery and lunch bags",2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304269,No text - category selected manually,2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304270,No text - category selected manually,2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304271,No text - category selected manually,2020-11-16 15:27:09.113,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300346,corrugated cardboard,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300347,phone books,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300348,brown paper bags,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300349,newspapers,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300350,mixed paper,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300351,office paper,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300352,cereal boxes,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300353,junk mail,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+346235,cardboard,2020-11-17 09:52:10.603,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+346236,newspaper,2020-11-17 09:52:10.603,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+304378,telephone books,2020-11-16 15:27:12.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304379,newspapers,2020-11-16 15:27:12.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304380,office paper,2020-11-16 15:27:12.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304381,cereal boxes,2020-11-16 15:27:12.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304382,magazines,2020-11-16 15:27:12.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304383,catalogs,2020-11-16 15:27:12.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+346398," plastics,   glass",2020-11-17 09:52:16.007,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+346399,No text - category selected manually,2020-11-17 09:52:16.007,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+304384,"paper products:  , ,  printer paper, copier paper, mail and all other  without wax liners: packing boxes, , gift boxes and . flatten boxes before placing in your cart
+cans: ; aluminum bottles are also accepted
+cartons: aseptic poly-coated drink boxes",2020-11-16 15:27:12.520,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304385,steel and aluminum food & beverage cans,2020-11-16 15:27:13.077,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304386,glass bottles,2020-11-16 15:27:13.077,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304387,juice cartons and milk cartons,2020-11-16 15:27:13.077,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304388,"bottles: (plastic & glass) - plastic bottles* milk, water, detergent, soda and shampoo (flatten and replace cap);",2020-11-16 15:27:13.077,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+346737,No text - category selected manually,2020-11-17 09:52:30.753,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+346738,No text - category selected manually,2020-11-17 09:52:30.753,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+346739,No text - category selected manually,2020-11-17 09:52:30.753,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+457924,"Paper ( newspapers , cereal boxes , flyers , magazines , junk mail , etc. )",2021-07-07 20:20:22.800,yes,"{'originalSize': {'height': 9126, 'width': 1600}, 'x1': 132, 'x2': 1089, 'y1': 3196, 'y2': 3268}",NULL,NULL,NULL,NULL,NULL,NULL
+302764,styrofoam,2020-11-16 15:26:10.440,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302765,empty aerosol cans,2020-11-16 15:26:10.440,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302766,aluminum food and beverage cans,2020-11-16 15:26:10.440,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302767,steel and tin cans,2020-11-16 15:26:10.440,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302768,"pie tins
+ea cans",2020-11-16 15:26:10.440,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+347700,newspaper,2020-11-17 09:53:16.070,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+347701,mixed paper,2020-11-17 09:53:16.070,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,text
+304513,styrofoam,2020-11-16 15:27:18.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304514,empty aerosol cans,2020-11-16 15:27:18.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304515,aluminum food and beverage cans,2020-11-16 15:27:18.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304516,steel and tin cans,2020-11-16 15:27:18.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304517,"pie tins
+ea cans",2020-11-16 15:27:18.340,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+348790,No text - category selected manually,2020-11-17 09:54:01.497,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+349344,No text - category selected manually,2020-11-17 09:54:24.317,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+349345,No text - category selected manually,2020-11-17 09:54:24.317,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+349346,No text - category selected manually,2020-11-17 09:54:24.317,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+302970,steel cans include soup cans and processed food cans,2020-11-16 15:26:16.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302971,"aluminum.
+
+.
+
+glass
+soda bottles, beer bottles, juice containers, condiment bottles, wine and liquor bottles and various glass food containers",2020-11-16 15:26:16.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302972,plastics 1 & 2:,2020-11-16 15:26:16.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302973,cardboard:,2020-11-16 15:26:16.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302974,mixed paper,2020-11-16 15:26:16.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302975,"are made of .
+
+paper
+: includes practically every other type of paper that hasn't been in contact with food or waste. 
+
+newsprint",2020-11-16 15:26:16.620,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302976,steel and aluminum cans,2020-11-16 15:26:17.227,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302977,aluminum foil,2020-11-16 15:26:17.227,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304662,magazines,2020-11-16 15:27:23.510,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304663,catalogs,2020-11-16 15:27:23.510,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304664,paperboard,2020-11-16 15:27:23.510,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304665,"cans
+clean, balled  & 
+ea cans
+ & 
+empty 
+
+
+loose metal jar lids and steel bottle caps
+, brochures & 
+
+opened mail, , and greeting cards
+
+ boxes (cereal, cracker, etc boxes)
+paper egg cartons
+paper milk or 
+
+rigid plastics
+
+white or pastel s",2020-11-16 15:27:23.510,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304666,Aluminum Cans,2020-11-16 15:27:24.237,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304667,steel or tin cans,2020-11-16 15:27:24.237,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303084,steel and aluminum food & beverage cans,2020-11-16 15:26:22.860,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303085,glass bottles,2020-11-16 15:26:22.860,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303086,juice cartons and milk cartons,2020-11-16 15:26:22.860,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303087,"bottles: (plastic & glass) - plastic bottles* milk, water, detergent, soda and shampoo (flatten and replace cap);",2020-11-16 15:26:22.860,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303088,cardboard,2020-11-16 15:26:22.860,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303089,corrugated cardboard,2020-11-16 15:26:22.860,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304793,steel cans,2020-11-16 15:27:29.020,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304794,aluminum cans,2020-11-16 15:27:29.020,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304795,tin cans,2020-11-16 15:27:29.020,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304796,glass bottles and jars,2020-11-16 15:27:29.020,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304797,"1)
+peanut butter jars, soft drink bottles
+hdpe (2)",2020-11-16 15:27:29.020,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304798,"jugs, laundry detergent jugs",2020-11-16 15:27:29.020,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+349629,No text - category selected manually,2020-11-17 09:54:33.730,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+349630,No text - category selected manually,2020-11-17 09:54:33.730,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+303234,newspaper,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303235,glossy paper,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303236,glossy magazines,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303237,office paper,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303238,magazines,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303239,catalogs,2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303240,"- bundle in  or tie with string or twine. 
+high grade paper- computer paper or . 
+-   &  with  (jc penney, sears, etc.). non, such as  
+- 
+. 
+- 
+ pie and t.v. dinner plates.",2020-11-16 15:26:27.567,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303241,"GLASS: All colors, jars",2020-11-16 15:26:28.037,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303201,corrugated cardboard,2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303202,phone books,2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303203,newspapers,2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303204,mixed paper,2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303205,junk mail,2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303206,magazines,2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303207,"recyclable plastic & 
+ :
+ , , color printed
+ material",2020-11-16 15:26:26.167,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303208,Glass:  clear,2020-11-16 15:26:26.460,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303209,plastic containers,2020-11-16 15:26:26.460,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303210,cardboard:,2020-11-16 15:26:26.460,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303211,"paper bag, etc.",2020-11-16 15:26:26.460,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303212,newspapers,2020-11-16 15:26:26.460,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303213,magazines,2020-11-16 15:26:26.460,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303214,"& colored mixed 
+cans:  
+paper:  , stationery tied or in a",2020-11-16 15:26:26.460,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+349940,No text - category selected manually,2020-11-17 09:54:46.363,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+349941,No text - category selected manually,2020-11-17 09:54:46.363,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+349942,No text - category selected manually,2020-11-17 09:54:46.363,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+350248,No text - category selected manually,2020-11-17 09:54:56.397,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+301877,"bottles, jars",2020-11-16 15:25:34.207,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301878,"plastic bottles, tubs, and jugs (rinsed)",2020-11-16 15:25:34.207,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301879,cardboard (non-waxed),2020-11-16 15:25:34.207,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301960,magazines,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+350737,No text - category selected manually,2020-11-17 09:55:17.397,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+350738,No text - category selected manually,2020-11-17 09:55:17.397,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+301961,catalogs,2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301962,"paper &
+    containers
+    white and pastel 
+    
+    
+    
+    corrugated (flattened)
+     and 
+    
+     (boxes from cereal, shoes, etc)
+    clean 
+    
+    
+    
+    clean, balled  2” or larger
+    aluminum",2020-11-16 15:25:37.367,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301963,Aluminum CansSteel Cans,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301964,aluminum foil (clean),2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301965,glass bottles & jars,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301966,aseptic containers,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301967,plasticcontainers labeled 1-7,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301968,cardboard,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301969,phone books,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301970,newspaper,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+301971,mixed paper,2020-11-16 15:25:37.913,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304906,phone books,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304907,envelopes,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304908,inserts,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304909,"includes .  non-corrugated boxes (soft-drink, cereal, gift boxes), paper towel rolls, manila ,  & packing . 
+includes white and yellow.",2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+304910,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304911,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304912,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304913,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304914,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304915,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304916,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304917,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304918,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304919,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+304920,No text - category selected manually,2020-11-16 15:27:32.903,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+303321,office paper,2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303322,magazines,2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303323,"paper
+food boxes
+milk, juice & soup cartons
+
+books & 
+mail & 
+plastic
+
+dairy containers & attached lids
+household 
+produce, bakery & deli containers
+metal &",2020-11-16 15:26:31.093,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303324,steel and aluminum food & beverage cans,2020-11-16 15:26:31.643,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303325,glass bottles,2020-11-16 15:26:31.643,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+303326,juice cartons and milk cartons,2020-11-16 15:26:31.643,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+351488,No text - category selected manually,2020-11-17 09:55:51.327,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+351489,No text - category selected manually,2020-11-17 09:55:51.327,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+351490,No text - category selected manually,2020-11-17 09:55:51.327,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+351491,No text - category selected manually,2020-11-17 09:55:51.327,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+351492,No text - category selected manually,2020-11-17 09:55:51.327,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+281032,"plastics labeled 1 – 7
+• bottles & jars
+• tubs & trays",2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281033,"paper products
+• aseptic boxes (juice, soup & soy milk)
+• dairy cartons
+• , & 
+•  & paper boxes
+(large or multiple pieces should be flattened and/or cut)
+• ,
+• 
+• 
+
+
+• please remove lids and caps and recycle
+
+aluminum & metal
+• 
+• 
+•  (empty & dry only)
+• pots & pans
+• scrap pieces (up to 30 pounds per item)",2020-11-09 14:05:57.033,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281034,"No Plastic Bags
+No Film Plastic
+No Styrofoam
+No Pressurized Tanks",2020-11-09 14:05:57.080,no,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+281035,Aerosol cans (completely empty),2020-11-09 14:05:57.947,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300354,magazines,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300355,catalogs,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+352209,No text - category selected manually,2020-11-17 09:56:23.947,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+352210,No text - category selected manually,2020-11-17 09:56:23.947,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+352211,No text - category selected manually,2020-11-17 09:56:23.947,yes,NULL,NULL,NULL,NULL,0.1.1,0.1.0,checkbox
+300356,inserts,2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300357,"water bottles
+milk jugs
+detergent containers
+ including  and 
+ and food/
+
+
+“”
+
+
+, 
+clean 
+clean aluminum",2020-11-16 15:24:26.687,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300358,Clean aluminum and steel cans,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300359,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300360,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300361,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300362,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300363,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300364,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300365,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300366,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300367,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300368,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300369,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300370,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300371,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300372,No text - category selected manually,2020-11-16 15:24:26.743,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,checkbox
+300373,"aluminum cans, tin cans",2020-11-16 15:24:27.383,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+300374,pie pans,2020-11-16 15:24:27.383,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302149,magazines,2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302150,"paper
+	
+
+pizza box
+
+ 
+
+ stack
+	
+
+s
+
+
+food cartons
+beverage cartons
+ glass 	 empty  	
+
+metal can and bottle lids
+
+
+
+ & lids
+plastic one-use cups",2020-11-16 15:25:45.870,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302151,"Metal Cans Steel, tin & aluminum soda, vegetable, fruit & tuna cans",2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302152,glass bottles & jar,2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302153,plastic bottles & containers,2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302154,flattened cardboard & paperboard,2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302155,brown paper bags,2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302156,newspaper,2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302157,office paper,2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302158,magazines,2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+302159,"paper  non-confidential ",2020-11-16 15:25:46.250,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305040,magazines,2020-11-16 15:27:37.990,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305041,catalogs,2020-11-16 15:27:37.990,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305042,"paper products:  , ,  printer paper, copier paper, mail and all other  without wax liners: packing boxes, , gift boxes and . flatten boxes before placing in your cart
+cans: ; aluminum bottles are also accepted
+cartons: aseptic poly-coated drink boxes",2020-11-16 15:27:37.990,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305043,"aluminum, plastic containers",2020-11-16 15:27:38.157,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305044,cardboard,2020-11-16 15:27:38.157,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305045,"newspapers, and",2020-11-16 15:27:38.157,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305046,,2020-11-16 15:27:38.157,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
+305047,Plastic: bottles,2020-11-16 15:27:38.583,yes,NULL,NULL,NULL,NULL,0.1.0,0.1.0,text
