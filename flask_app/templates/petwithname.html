@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    {% for pet in query %}
+    <h3>{{ pet.name }}</h3>
+    <span class="badge badge-primary">{{ pet.breed }}</span>
+    <hr>
+    {% endfor %}
+{% endblock %}
