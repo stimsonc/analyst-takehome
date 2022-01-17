@@ -3,8 +3,8 @@
 {% block content %}
     <h1>{% block title %} All pets in inventory {% endblock %}</h1>
     {% for pet in pets %}
-    <h3>{{ pet['Name'] }}</h3>
-    <span class="badge badge-primary">{{ pet['Breed'] }}</span>
-    <hr>
-{% endfor %}
+        <h3>{{ pet.name }}</h3>
+        <span class="badge badge-primary">{{ pet.breed }}</span>
+        <hr>
+    {% endfor %}
 {% endblock %}
